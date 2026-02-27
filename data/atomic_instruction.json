@@ -1,0 +1,206 @@
+[
+    {
+        "id": 1,
+        "instruction": "Describe the subjects in the image."
+    },
+    {
+        "id": 2,
+        "instruction": "Describe the objects in the image."
+    },
+    {
+        "id": 3,
+        "instruction": "Describe all available objects in the image."
+    },
+    {
+        "id": 4,
+        "instruction": "Describe the background of the image."
+    },
+    {
+        "id": 5,
+        "instruction": "Describe the emotion in the image."
+    },
+    {
+        "id": 6,
+        "instruction": "Describe the activities in the image."
+    },
+    {
+        "id": 7,
+        "instruction": "Describe the shape of the image."
+    },
+    {
+        "id": 8,
+        "instruction": "Describe the arrangement in the image."
+    },
+    {
+        "id": 9,
+        "instruction": "Describe the size of objects in the image."
+    },
+    {
+        "id": 10,
+        "instruction": "Describe the light in the image."
+    },
+    {
+        "id": 11,
+        "instruction": "Describe the topic in the image."
+    },
+    {
+        "id": 12,
+        "instruction": "Describe the perspective in the image."
+    },
+    {
+        "id": 13,
+        "instruction": "Describe the composition in the image."
+    },
+    {
+        "id": 14,
+        "instruction": "Describe the use of camera in the image."
+    },
+    {
+        "id": 15,
+        "instruction": "Describe the use of colors in the image."
+    },
+    {
+        "id": 16,
+        "instruction": "Describe about the focus of objects in the image."
+    },
+    {
+        "id": 17,
+        "instruction": "Describe about the exposure in the image."
+    },
+    {
+        "id": 18,
+        "instruction": "Describe about the angle of view in the image."
+    },
+    {
+        "id": 19,
+        "instruction": "Describe about main object in the image."
+    },
+    {
+        "id": 20,
+        "instruction": "Describe about the people in the image."
+    },
+    {
+        "id": 21,
+        "instruction": "Describe about the position of objects in the image."
+    },
+    {
+        "id": 22,
+        "instruction": "Describe about the style of objects in the image."
+    },
+    {
+        "id": 23,
+        "instruction": "Describe about the view of the image."
+    },
+    {
+        "id": 24,
+        "instruction": "Briefly describes about the image."
+    },
+    {
+        "id": 25,
+        "instruction": "The description must be less than 100 words"
+    },
+    {
+        "id": 26,
+        "instruction": "Write the description in paragraph."
+    },
+    {
+        "id": 27,
+        "instruction": "Write the description in 5 to 10 sentences."
+    }, 
+    {
+        "id": 28,
+        "instruction": "Write the description in less than 20 sentences"
+    },
+    {
+        "id": 29,
+        "instruction": "Write the description in less than 20 sentences"
+    },
+    {
+        "id": 30,
+        "instruction": "Describe the abnormal activities in the image."
+    },
+    {
+        "id": 31,
+        "instruction": "Describe the structures of the image."
+    },
+    {
+        "id": 32,
+        "instruction": "Describe the main character of the image."
+    },
+    {
+        "id": 33,
+        "instruction": "Describe the activities by each objects the image."
+    },
+    {
+        "id": 34,
+        "instruction": "Describe the location by each objects the image."
+    },
+    {
+        "id": 35,
+        "instruction": "Write the description in formal styles."
+    },
+    {
+        "id": 36,
+        "instruction": "Write the description in humor styles."
+    },
+    {
+        "id": 37,
+        "instruction": "Write the description in critique styles."
+    },
+    {
+        "id": 38,
+        "instruction": "Write the description in journalist styles."
+    },
+    {
+        "id": 39,
+        "instruction": "Write the description in popular styles."
+    },
+    {
+        "id": 40,
+        "instruction": "Write the description in json format."
+    },
+    {
+        "id": 41,
+        "instruction": "Describe the backlight in the image."
+    },
+    {
+        "id": 42,
+        "instruction": "Describe the scene in the image."
+    },
+    {
+        "id": 43,
+        "instruction": "Describe the focus lock of the main object in the image."
+    },
+    {
+        "id": 44,
+        "instruction": "Describe the aperture of the image."
+    },
+    {
+        "id": 45,
+        "instruction": "Describe the blur region in the image."
+    },
+    {
+        "id": 46,
+        "instruction": "Write the description in markdown format."
+    },
+    {
+        "id": 47,
+        "instruction": "Describe the depth of field in the image."
+    },
+    {
+        "id": 48,
+        "instruction": "Describe the color temperature in the image."
+    },
+    {
+        "id": 49,
+        "instruction": "Describe the chromatic aberration in the image."
+    },
+    {
+        "id": 50,
+        "instruction": "Describe the bounce flash in the image."
+    },
+    {
+        "id": 51,
+        "instruction": "Describe the color by each objects the image."
+    }
+]

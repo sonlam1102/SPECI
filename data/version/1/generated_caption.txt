@@ -1,0 +1,1793 @@
+You are tasked with analyzing the provided image in a comprehensive manner and generating a detailed, accurate, and contextually relevant textual description. Your analysis should thoroughly examine the visual elements and convey the emotional tone, the central topic, and an overall summary of the scene depicted. 
+
+The expected output should be a free-style paragraph written in a journalistic style, capturing the essence of the image with clarity and precision. Avoid making any references to specific training data or dates. Instead, focus on delivering a vivid and engaging narrative that paints a clear picture for the reader.
+==================================
+Carefully examine the image and identify any prominent objects or items that stand out. Describe each of these objects in detail, including their appearance, size, color, and any distinctive features they may have. Explain the role or significance of these objects within the context of the scene, considering how they contribute to the overall composition, mood, or narrative. Discuss the interactions between the objects and other elements in the image, and how they collectively enhance the viewer's understanding of the scene. Your description should be comprehensive, providing a vivid and accurate portrayal of the image in a free-style paragraph.
+==================================
+Carefully examine the image and provide a comprehensive analysis of the lighting conditions present. Consider the source of the light, its direction, intensity, and quality. Describe how the light interacts with the objects and subjects within the image, noting any shadows, highlights, or reflections. Discuss the overall ambiance created by the lighting, and how it contributes to the mood or atmosphere of the scene. Your description should be detailed, capturing the nuances of the lighting to give a clear and vivid picture of the visual experience.
+==================================
+Carefully examine the image and identify any shadows that are cast by the objects or subjects present within the scene. Pay attention to the direction, length, and intensity of these shadows, as they can provide insight into the light source and its position relative to the objects. Next, focus on describing the main character or subject of the image in detail. Consider their appearance, clothing, facial expressions, posture, and any actions they might be performing. This description should be vivid and paint a clear picture of the main character's role and significance in the image.
+
+Additionally, analyze the aperture setting used in the image. This involves observing the depth of field; note whether the background is blurred or in sharp focus, and how this affects the overall composition and emphasis on the main subject. Finally, look for any reflections created by light on shiny surfaces within the image. These reflections can be found on objects such as glass, water, metal, or any other reflective materials. Describe these reflections and their impact on the visual dynamics of the scene.
+
+Your output should be a free-style paragraph that provides a comprehensive, detailed, and contextually relevant textual description of the image, incorporating all the elements mentioned above.
+==================================
+Carefully examine the given image and provide a comprehensive and detailed textual description of the blurred region within it. Your description should include observations about the size, shape, and any distinguishable features or patterns within the blurred area. Additionally, describe the overall shape of the image, noting its dimensions, proportions, and any relevant geometric characteristics. Ensure that your description is thorough and contextually relevant, capturing all visible aspects of the blur and the image's shape in a free-style paragraph format. Avoid making any references to specific training data or dates in your description.
+==================================
+Please analyze the given image thoroughly to assess the intensity of the light source. Your analysis should consider various aspects such as the brightness, shadows, reflections, and any other indicators that can help determine the strength and quality of the light source. 
+
+Your output should be a detailed and contextually relevant textual description in JSON format, covering the following points:
+
+1. **Brightness Level**: Describe the overall brightness of the image.
+2. **Shadows**: Note the presence, direction, and sharpness of any shadows.
+3. **Reflections**: Identify any reflections and their clarity.
+4. **Light Source Position**: Infer the position of the light source based on the shadows and highlights.
+5. **Light Quality**: Comment on whether the light appears to be soft or harsh.
+6. **Additional Observations**: Include any other relevant details that contribute to understanding the light intensity.
+
+The expected output should be structured as follows:
+
+```json
+{
+  "brightness_level": "description of the overall brightness",
+  "shadows": "description of the shadows, including direction and sharpness",
+  "reflections": "description of any reflections and their clarity",
+  "light_source_position": "inferred position of the light source",
+  "light_quality": "description of the light quality (soft or harsh)",
+  "additional_observations": "any other relevant details"
+}
+```
+==================================
+Analyze the provided image meticulously to identify and interpret the emotions being expressed by the subjects within the image. Consider facial expressions, body language, and any contextual elements that may contribute to the overall emotional tone. Your description should be comprehensive, capturing the nuances of the emotions displayed. 
+
+The expected output should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "emotion": "detailed description of the emotion",
+  "facial_expression": "description of facial expressions contributing to the emotion",
+  "body_language": "description of body language contributing to the emotion",
+  "context": "description of any contextual elements that influence the emotion"
+}
+```
+
+Ensure that your analysis is thorough and the descriptions are accurate and contextually relevant.
+==================================
+Please follow these detailed instructions to analyze the given image thoroughly and generate an accurate, detailed, and contextually relevant textual description:
+
+1. Carefully examine the image to identify all significant elements, objects, and subjects present within it.
+2. Determine the central topic or theme depicted in the image by considering the relationships and interactions between the identified elements.
+3. Generate a well-structured and coherent textual description that accurately reflects the content and context of the image.
+4. Ensure that each distinct piece of information or atomic output is separated by a line for clarity.
+5. Avoid including specific characters such as curly braces in the output to maintain clarity and avoid syntax errors.
+
+The expected output should be formatted as follows:
+
+- A detailed description of the central topic or theme of the image.
+- A list of significant elements or objects present in the image.
+- A description of the relationships or interactions between these elements or objects.
+- Any additional context or relevant details that contribute to a comprehensive understanding of the image.
+
+Ensure that the final output is well-formed, free from syntax errors or corruption, and provides a complete and accurate representation of the image's content.
+==================================
+Carefully examine the given image and provide a thorough analysis of how the depth of field influences the overall composition. Describe how the focus, sharpness, and blur of different elements within the image create a sense of depth and dimension. Assess the relationships and interactions between the various elements, noting how their positioning and clarity contribute to the overall visual narrative. Additionally, include any contextual details or relevant aspects that enhance the viewer's understanding of the scene, such as the lighting, color palette, textures, and any symbolic or thematic significance. The description should be a detailed, free-style paragraph that paints a vivid picture of the image, capturing its essence and the interplay of its components.
+==================================
+Carefully analyze the background and setting of the image to gain a comprehensive understanding of the context in which the scene is taking place. Pay attention to details such as the environment, weather conditions, time of day, and any notable landmarks or features that can provide insight into the setting. 
+
+Next, focus on the main object in the image. Describe its appearance in detail, including its size, shape, color, texture, and any distinctive features. Consider its position within the scene and its relationship to other elements in the image. Additionally, speculate on the possible significance or role of the main object within the context of the setting. 
+
+Your description should be a free-style paragraph that integrates all these observations to create a vivid and accurate portrayal of the image.
+==================================
+Thoroughly examine the various textures present in the image, noting how each texture contributes to the overall visual experience and emotional response of the viewer. Consider the smoothness, roughness, softness, or hardness of surfaces and how these tactile qualities enhance the realism or artistic expression of the scene. 
+
+Evaluate the clarity and sharpness of different components within the image, identifying which elements are in sharp focus and which are more blurred or out of focus. Discuss how this clarity, or lack thereof, directs the viewer's attention and influences the composition's balance and harmony.
+
+Identify and elaborate on any symbolic or thematic elements within the image that add layers of meaning or narrative depth. Consider how these elements interact with the visual components and contribute to the overall message or story conveyed by the image.
+
+Describe the use of bounce flash in the image, explaining how the light is reflected off surfaces to create a softer, more diffused illumination. Discuss the impact of this lighting technique on the mood, shadows, and highlights within the scene, and how it enhances the visual appeal and depth of the image.
+==================================
+Carefully examine the image to identify the primary object of focus. Analyze its dimensions in relation to other elements within the image. Consider its height, width, and overall scale. Compare the size of the main object to any surrounding objects or background features to provide a comprehensive understanding of its relative size. The description should be a detailed, free-style paragraph that thoroughly conveys the size of the main object in context.
+==================================
+Please analyze the provided image meticulously and generate a comprehensive, precise, and contextually appropriate textual description that thoroughly explains the presence and characteristics of chromatic aberration in the image. Your description should be detailed and should cover all aspects of chromatic aberration observed, including its location, intensity, and how it affects the overall quality of the image. 
+
+The expected output should be in JSON format and include the following fields:
+
+- "description": A detailed explanation of the chromatic aberration observed in the image.
+- "location": Specific areas in the image where chromatic aberration is noticeable.
+- "intensity": The degree of chromatic aberration, whether it is mild, moderate, or severe.
+- "impact": How the chromatic aberration affects the overall visual quality of the image.
+
+Example output:
+
+```json
+{
+  "description": "The image exhibits noticeable chromatic aberration, characterized by color fringing along the edges of objects.",
+  "location": "The chromatic aberration is primarily visible around the edges of high-contrast areas, such as the borders of the buildings and tree branches against the sky.",
+  "intensity": "The intensity of the chromatic aberration is moderate, with visible red and blue fringes.",
+  "impact": "The chromatic aberration slightly detracts from the overall sharpness and clarity of the image, causing some areas to appear less defined."
+}
+```
+==================================
+Thoroughly analyze the given image, ensuring that you capture the subtleties and nuances of the emotions being displayed by the subjects. Your description should be a free-flowing paragraph that offers a comprehensive and detailed account of the scene. Pay close attention to the body language of the individuals, describing their posture, gestures, and any physical interactions between them. Highlight the facial expressions and how they contribute to the overall emotional tone of the image. Your goal is to create a vivid and contextually relevant textual description that paints a clear picture of the scene, conveying the depth of the emotions and the dynamics between the subjects.
+==================================
+Carefully examine the facial expressions of the primary subject in the image. Provide a comprehensive and precise description of these expressions, noting any emotions or subtle nuances conveyed through their facial features. 
+
+Additionally, analyze the arrangement of various elements within the image. Describe how the placement and positioning of these elements affect their interaction with each other and the overall composition of the image. 
+
+Ensure that the generated description is accurate, detailed, and contextually relevant, avoiding any form of corruption or inaccuracies.
+
+The expected output should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "facial_expressions": {
+    "description": "A detailed description of the main character's facial expressions, including emotions and nuances."
+  },
+  "element_interaction": {
+    "description": "An analysis of how the positioning of elements within the image influences their interaction and the overall composition."
+  }
+}
+```
+==================================
+Analyze the given image comprehensively, focusing on identifying and interpreting any contextual elements that could affect the emotions being conveyed. Pay close attention to the setting, objects, background, and any interactions between subjects within the image. Consider how these elements contribute to the overall mood and emotional tone. 
+
+The expected output should be a detailed and accurate textual description in JSON format, capturing the nuances of the emotional context. The JSON should include fields such as:
+
+- "setting": A description of the environment or location depicted in the image.
+- "subjects": Details about the people, animals, or objects present in the image.
+- "interactions": Information about any interactions between subjects and how they might influence the emotional context.
+- "background": Description of the background elements and their potential impact on the mood.
+- "emotional_tone": An analysis of the overall emotional tone conveyed by the image, considering all contextual elements.
+
+Example JSON output:
+```json
+{
+  "setting": "A cozy living room with warm lighting",
+  "subjects": [
+    {
+      "type": "person",
+      "description": "A woman sitting on a couch, smiling warmly"
+    },
+    {
+      "type": "animal",
+      "description": "A small dog sitting next to the woman, looking content"
+    }
+  ],
+  "interactions": "The woman is gently petting the dog, which seems to enjoy the attention",
+  "background": "Bookshelves filled with books and a window showing a sunny day outside",
+  "emotional_tone": "The image conveys a sense of warmth, comfort, and happiness"
+}
+```
+
+Ensure that the description is thorough and contextually relevant, providing a clear understanding of the emotions being expressed in the image.
+==================================
+To analyze the given image thoroughly and generate an accurate, detailed, and contextually relevant textual description, follow these steps:
+
+1. **Setting Description**: Begin by identifying and describing the overall setting of the image. This includes the location (e.g., indoor, outdoor, urban, rural), the time of day (e.g., morning, afternoon, evening, night), and any notable weather conditions (e.g., sunny, rainy, cloudy).
+
+2. **Objects and Subjects**: Identify and describe all the significant objects and subjects present in the image. This includes people, animals, buildings, natural elements (e.g., trees, mountains), and man-made objects (e.g., furniture, vehicles).
+
+3. **Emotional Tone**: Analyze how the identified elements contribute to the emotional tone of the image. Consider the expressions and body language of any people, the color palette (e.g., warm, cool, vibrant, muted), and the overall composition (e.g., cluttered, minimalistic).
+
+4. **Focus and Clarity**: Identify which elements in the image are more blurred or out of focus. Describe how the focus affects the viewer's attention and the overall interpretation of the image.
+
+5. **Contextual Relevance**: Ensure that the description is contextually relevant, providing insights into the possible narrative or story behind the image.
+
+The expected output should be in JSON format, structured as follows:
+
+```json
+{
+  "setting": {
+    "location": "description of the location",
+    "time_of_day": "description of the time of day",
+    "weather_conditions": "description of the weather conditions"
+  },
+  "objects_and_subjects": [
+    {
+      "type": "type of object or subject",
+      "description": "detailed description of the object or subject"
+    },
+    {
+      "type": "type of object or subject",
+      "description": "detailed description of the object or subject"
+    }
+    // Add more objects and subjects as needed
+  ],
+  "emotional_tone": "description of how the elements contribute to the emotional tone",
+  "focus_and_clarity": [
+    {
+      "element": "description of the element",
+      "focus": "description of the focus (e.g., sharp, blurred)"
+    },
+    {
+      "element": "description of the element",
+      "focus": "description of the focus (e.g., sharp, blurred)"
+    }
+    // Add more elements as needed
+  ],
+  "
+==================================
+You are tasked with thoroughly analyzing the given image and generating an accurate, detailed, and contextually relevant textual description. Follow these steps to ensure a comprehensive assessment:
+
+1. **Shadow Sharpness Analysis**: Examine the shadows present in the image. Describe their sharpness or blurriness, noting any variations in the edges of the shadows. Consider the light source's intensity and position, and how it affects the definition of the shadows.
+
+2. **Interactions and Context**: Assess how the shadows interact with other elements in the image. Describe how these interactions contribute to the overall understanding of the scene. Consider aspects such as the time of day, the environment, and the objects casting the shadows.
+
+3. **Detailed Description**: Provide a detailed description of the scene, incorporating your analysis of the shadows and their interactions with other elements. Ensure that your description is thorough and contextually relevant, offering a clear picture of the scene to the reader.
+
+4. **Output Format**: Present your findings in a structured JSON format. Include sections for shadow sharpness, interactions, and the overall scene description.
+
+Here is an example of the expected output format:
+
+```json
+{
+  "shadow_sharpness": "Description of the sharpness or blurriness of the shadows, noting any variations.",
+  "interactions": "Analysis of how the shadows interact with other elements in the image and how these interactions enhance the understanding of the scene.",
+  "scene_description": "A detailed and contextually relevant description of the scene, incorporating the analysis of shadows and their interactions."
+}
+```
+
+Ensure that your analysis is thorough and provides a clear, detailed understanding of the scene depicted in the image.
+==================================
+The instruction should guide the model to analyze the given image thoroughly and generate an accurate, detailed, and contextually relevant textual description. The description should be written in a journalistic style, capturing the nuances of the lighting and determining the time of day based on the lighting and shadows present in the image. 
+
+The expected output should be in JSON format with the following structure:
+
+```json
+{
+  "description": "A comprehensive, detailed, and contextually relevant textual description of the image, written in a journalistic style. The description should capture the nuances of the lighting and determine the time of day based on the lighting and shadows."
+}
+```
+
+Here is an example of how the JSON output should look:
+
+```json
+{
+  "description": "In the image, a bustling city street is bathed in the warm, golden hues of the late afternoon sun. The long shadows cast by the buildings and pedestrians suggest that it is nearing sunset. The light creates a striking contrast between the illuminated areas and the darker, shaded regions, highlighting the architectural details of the historic buildings lining the street. The scene is vibrant with activity, as people go about their day, some stopping to chat while others hurry along the sidewalk. The overall atmosphere is one of dynamic energy, captured perfectly in this moment of urban life."
+}
+```
+==================================
+Carefully analyze the given image, paying close attention to the length of the shadows cast by various objects within the scene. Observe and note which elements appear more blurred or out of focus, indicating depth of field or motion. Look for any reflections present in the image, whether on surfaces like water, glass, or shiny objects, and describe their characteristics. Examine the image thoroughly to determine the primary source of light, considering factors such as the direction of shadows, the intensity of light on different surfaces, and any visible light sources within the scene. Your description should be a detailed and contextually relevant paragraph that encapsulates these observations comprehensively.
+==================================
+You are tasked with thoroughly analyzing the given image and generating a detailed and contextually relevant textual description. Your analysis should include the following elements:
+
+1. **Facial Expressions**: Carefully examine the facial expressions of any individuals present in the image. Identify and describe any subtle nuances, such as slight changes in the curvature of the mouth, the positioning of the eyebrows, or the intensity of the gaze. Consider how these subtle details contribute to the overall emotional tone or mood conveyed by the individuals.
+
+2. **Size of the Main Object**: Determine the main object in the image and provide a detailed description of its size. Compare its size relative to other objects or elements within the image to give a clear understanding of its scale. Use descriptive language to convey whether the object is large, medium, or small, and provide context to help the reader visualize its dimensions.
+
+3. **Sharpness of the Shadows**: Assess the shadows present in the image, focusing on their sharpness. Describe whether the shadows are crisp and well-defined or if they appear soft and diffused. Explain how the sharpness of the shadows affects the overall perception of depth and texture in the image.
+
+4. **Chromatic Aberration**: Analyze the presence of chromatic aberration in the image, which may appear as color fringing around the edges of objects. Describe how this optical phenomenon impacts the overall quality of the image. Consider whether the chromatic aberration is noticeable and if it detracts from the clarity and visual appeal of the image.
+
+Your output should be a free-style paragraph that integrates all these elements into a cohesive and comprehensive description of the image.
+==================================
+Analyze the provided image meticulously and generate a comprehensive, detailed, and contextually relevant textual description. Focus on identifying and describing any actions that the main character in the image might be performing. Additionally, determine and describe the direction from which the light is coming. Your response should be structured in a paragraph format. 
+
+The expected output should be in JSON format as follows:
+
+```json
+{
+  "description": "A detailed paragraph describing the actions of the main character and the direction of the light source."
+}
+```
+==================================
+Please analyze the provided image thoroughly and generate a comprehensive, detailed, and contextually relevant textual description. Your analysis should focus on the following aspects:
+
+1. **Focus of Objects**: Describe the main objects in the image and their focus. Identify which objects are in sharp focus and which ones are out of focus. Discuss the depth of field and how it contributes to the overall composition of the image.
+
+2. **Chromatic Aberration**: Explain how chromatic aberration affects the overall quality of the image. Describe any visible color fringing around the edges of objects, particularly where high-contrast areas meet. Discuss how this optical issue impacts the clarity and visual appeal of the image.
+
+Your output should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "focus_of_objects": {
+    "description": "Provide a detailed description of the focus of the main objects in the image.",
+    "sharp_focus": "List the objects that are in sharp focus.",
+    "out_of_focus": "List the objects that are out of focus.",
+    "depth_of_field": "Describe the depth of field and its effect on the image composition."
+  },
+  "chromatic_aberration": {
+    "description": "Explain how chromatic aberration is affecting the image quality.",
+    "visible_effects": "Describe any visible color fringing and its impact on the image."
+  }
+}
+```
+
+Ensure that your description is accurate, detailed, and contextually relevant to the image being analyzed.
+==================================
+Analyze the given image meticulously and generate a comprehensive, detailed, and contextually relevant textual description. Focus on the posture of each individual present in the image, describing their stance, gestures, and any notable body language. Additionally, examine and describe the reflections visible in the image, including their sources and how they interact with the surrounding environment. Identify and describe the objects that are casting shadows, noting their shapes, positions, and the direction of the shadows. Furthermore, provide an in-depth analysis of any chromatic aberration observed, detailing the colors affected, the areas where this optical phenomenon is most prominent, and how it impacts the overall visual composition of the image. The expected output should be a free-style paragraph that thoroughly covers these aspects.
+==================================
+Carefully examine the given image and provide a comprehensive, detailed, and contextually relevant textual description. Begin by identifying and describing each object within the image. For each object, include details about its appearance, size, color, and any distinctive features that make it stand out. 
+
+Next, analyze the overall composition of the image. Determine whether the arrangement of objects is cluttered, minimalistic, or falls somewhere in between. Describe how the objects are positioned in relation to one another and the overall visual impact of the composition.
+
+Pay particular attention to the main character in the image. Describe their appearance in detail, including their clothing, facial expressions, posture, and any unique attributes or accessories they may have. 
+
+Your description should be written as a free-style paragraph, providing a vivid and accurate portrayal of the image based on your thorough analysis.
+==================================
+Please analyze the provided image thoroughly and generate a detailed and contextually relevant textual description. Your analysis should include the following aspects:
+
+1. **Weather Conditions**: Carefully observe and describe the weather conditions depicted in the image. Note any visible indicators such as clouds, precipitation, sunlight, fog, etc.
+
+2. **Elements in Sharp Focus**: Identify and list the elements within the image that are in sharp focus. This could include objects, people, or specific areas that appear clear and well-defined.
+
+3. **Light Direction**: Determine the direction from which the light is coming. Look for shadows, highlights, and the overall illumination of the scene to ascertain the light source's position.
+
+4. **Aperture Description**: Describe the aperture setting of the image. Indicate whether the depth of field is shallow or deep, and how it affects the overall focus and clarity of the image.
+
+The expected output should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "weather_conditions": "Detailed description of the weather conditions",
+  "elements_in_sharp_focus": ["List of elements in sharp focus"],
+  "light_direction": "Description of the light direction",
+  "aperture_description": "Description of the aperture setting"
+}
+```
+
+Ensure your description is accurate, detailed, and contextually relevant based on the visual analysis of the image.
+==================================
+Your task is to conduct a comprehensive analysis of the provided image and generate a detailed, contextually relevant textual description. Follow these steps to ensure a thorough examination:
+
+1. **Analyze the Relationship of the Main Object to Other Elements:**
+   - Identify the primary subject or main object within the image.
+   - Describe how this main object interacts with or relates to other elements present in the scene. Consider aspects such as positioning, proximity, and any physical or implied connections.
+
+2. **Analyze Symbolic Elements:**
+   - Identify any symbolic elements within the image.
+   - Explain how these symbols contribute to the overall message or theme of the image. Consider cultural, historical, or contextual significance.
+
+3. **Assess the Intensity of Light:**
+   - Observe and describe the intensity of light on different surfaces within the scene.
+   - Note variations in lighting, such as areas of shadow, highlights, and the overall distribution of light.
+
+4. **Write the Description in a Journalistic Style:**
+   - Present the analysis in a clear, concise, and informative manner.
+   - Ensure the description is engaging and accessible to a broad audience.
+
+The expected output should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "main_object_relationship": "Detailed description of the relationship between the main object and other elements in the image.",
+  "symbolic_elements": "Explanation of symbolic elements and their contribution to the overall message.",
+  "light_intensity": "Assessment of the intensity of light on different surfaces within the scene.",
+  "journalistic_description": "A well-crafted, journalistic-style description of the image analysis."
+}
+```
+
+Ensure that your analysis is thorough and provides a complete understanding of the image's composition, symbolism, and lighting.
+==================================
+Analyze the given image in detail and identify the primary object that stands out within the scene. Examine its location carefully and describe its position relative to the overall composition of the image. Consider aspects such as the object's placement in the foreground, background, or middle ground, as well as its alignment (left, right, center). Your output should be a JSON object that includes the following keys: 
+
+- "main_object": A brief description of the primary object.
+- "position": A detailed description of the object's location within the scene.
+
+For example:
+```json
+{
+  "main_object": "A red apple",
+  "position": "center of the image, slightly towards the bottom"
+}
+```
+==================================
+Carefully examine the image and pay close attention to the length and direction of the shadows cast by various objects. Consider how the light source influences these shadows and how they interact with the surrounding environment. Describe the scene in a detailed and engaging manner, capturing the essence of the setting, the interplay of light and shadow, and the overall atmosphere. Your description should paint a vivid picture in the reader's mind, highlighting the nuances of the shadows and their contribution to the image's composition and mood.
+==================================
+Carefully examine the given image and provide a comprehensive and vivid description of the scene. Your description should capture all the key elements, including the setting, objects, people, and any notable activities or interactions taking place. Pay attention to details such as colors, textures, lighting, and the overall atmosphere. Describe the relationships between different elements in the scene and any emotions or moods that are conveyed. Your goal is to create a detailed and immersive textual representation of the image, allowing someone who cannot see the image to fully visualize and understand it.
+==================================
+{
+  "description": "The image presents a well-defined and structured composition, characterized by a central blurred region that draws immediate attention. The blurred area occupies a significant portion of the image, approximately one-third of the total space, and is roughly oval in shape. Within this blurred region, any distinguishable features are obscured, making it difficult to identify specific elements or patterns. The overall shape of the image is rectangular, with dimensions that suggest a landscape orientation. The proportions of the image are balanced, with the blurred area centrally positioned, creating a focal point that contrasts with the clearer surrounding elements. Geometric characteristics of the image include straight edges and right angles at the corners, contributing to its orderly appearance. The description aims to provide a thorough analysis of the visual elements, ensuring a comprehensive and contextually relevant understanding of the image."
+}
+==================================
+Examine the image closely and identify the main source of illumination. Consider the direction and intensity of the light, as well as the shadows and highlights present in the scene. Describe the characteristics of the light source, such as its position, color, and any visible elements that might indicate its nature (e.g., sunlight, artificial lighting, reflections). Provide a comprehensive and detailed description of how the light source influences the overall appearance and mood of the image.
+==================================
+Carefully examine the image to identify any instances of color fringing, which is also known as chromatic aberration, around the edges of objects. This phenomenon typically appears as a slight misalignment of colors, often manifesting as a halo or outline of colors such as red, blue, green, or purple along the borders of objects. In your detailed description, note the specific locations where this fringing occurs, the colors involved, and the intensity of the effect. Additionally, consider how the lighting conditions in the image contribute to the visibility and prominence of the color fringing. Describe the overall lighting environment, including the direction, quality, and color temperature of the light sources, and how these factors might be enhancing or diminishing the appearance of the fringing. Your description should provide a comprehensive and nuanced account of both the color fringing and the lighting context, offering a clear and vivid picture of the visual characteristics present in the image.
+==================================
+Carefully analyze the overall atmosphere and mood conveyed by the setting in the image. Consider elements such as lighting, color palette, and any visible weather conditions or time of day that contribute to the ambiance. Describe how these elements work together to create a specific feeling or tone in the scene.
+
+Next, focus on the main object within the image. Provide a detailed description of its size in relation to other objects or elements in the scene. Consider its dimensions, scale, and any notable features that help to convey its size. Your description should be thorough and provide a clear understanding of the main object's proportions and presence within the setting. 
+
+Combine these observations into a cohesive, free-style paragraph that captures both the mood of the setting and the size of the main object, ensuring that your description is accurate, detailed, and contextually relevant.
+==================================
+To generate a comprehensive and contextually relevant textual description of the given image, follow these detailed instructions:
+
+Begin by thoroughly analyzing the image, paying close attention to the lighting and its impact on the scene. Describe the overall lighting conditions, such as whether the scene is illuminated by natural sunlight, artificial light, or a combination of both. Note the intensity and direction of the light source, and how it influences the visibility and appearance of objects within the image.
+
+Identify and describe each object that is casting a shadow. Provide specific details about the shapes and positions of these objects, as well as the direction in which their shadows are cast. For example, if there is a tree casting a shadow, mention its location within the image, the shape of the tree, and the direction and length of the shadow it creates.
+
+Ensure that your description is written in a journalistic style, prioritizing clarity and precision. Use concise and accurate language to convey the scene's details, making it easy for the reader to visualize the image. Avoid making assumptions about specific training data or dates, and focus solely on the visual elements present in the image.
+
+The expected output should be a free-style paragraph that provides a vivid and detailed account of the scene, capturing the interplay of light and shadows, and offering a clear depiction of the objects within the image.
+==================================
+Your task is to analyze the provided image meticulously and generate a comprehensive, detailed, and contextually relevant textual description. Follow these steps to ensure accuracy and thoroughness:
+
+1. **Main Object Size Description**:
+   - Carefully examine the image to identify the main object.
+   - Provide a detailed description of the size of the main object. Include dimensions, proportions, and any relevant size comparisons to other objects within the image or known reference points.
+
+2. **Elements in Sharp Focus**:
+   - Identify all elements within the image that are in sharp focus.
+   - List these elements clearly, ensuring that each element is described with enough detail to understand its characteristics and importance within the context of the image.
+
+The expected output should be structured in JSON format as follows:
+
+```json
+{
+  "main_object_size_description": "Provide a detailed description of the size of the main object here.",
+  "elements_in_sharp_focus": [
+    "List the first element in sharp focus here.",
+    "List the second element in sharp focus here.",
+    "Continue listing all elements in sharp focus."
+  ]
+}
+```
+
+Ensure that your analysis is thorough and that the generated description is both accurate and contextually relevant to the content of the image.
+==================================
+To generate a comprehensive and detailed description of the given image, follow these steps:
+
+1. **Analyze the Main Object**:
+   - Identify the primary subject or object in the image.
+   - Provide a thorough description of its physical appearance, including shape, size, color, texture, and any distinctive features.
+   - Mention its position within the image and its interaction with the surrounding elements.
+
+2. **Observe and Describe Weather Conditions**:
+   - Examine the overall atmosphere and weather conditions depicted in the image.
+   - Note any visible indicators of weather such as sunlight, clouds, rain, snow, fog, or wind.
+   - Describe how these weather conditions affect the scene, including lighting, shadows, and the mood they create.
+
+3. **Describe the Main Character**:
+   - If there is a prominent character in the image, provide a vivid and clear description.
+   - Include details about their appearance, attire, facial expressions, and posture.
+   - Mention any actions they are performing and their interaction with other elements in the image.
+
+4. **Format the Output in JSON**:
+   - Ensure the final description is structured in JSON format.
+   - Include keys for each aspect of the description (main object, weather conditions, main character) with corresponding detailed values.
+
+Here is an example of the expected output in JSON format:
+
+```json
+{
+  "main_object": {
+    "description": "A large oak tree with a thick trunk and sprawling branches covered in green leaves. The tree is positioned slightly to the left of the center of the image, with its roots partially visible above the ground.",
+    "features": {
+      "color": "brown trunk, green leaves",
+      "texture": "rough bark",
+      "size": "large, towering over surrounding elements"
+    }
+  },
+  "weather_conditions": {
+    "description": "The weather appears to be sunny with clear blue skies. There are a few scattered white clouds, and the sunlight casts distinct shadows on the ground. The overall atmosphere is bright and cheerful.",
+    "indicators": {
+      "sunlight": "bright and clear",
+      "clouds": "scattered white clouds",
+      "shadows": "distinct and sharp"
+    }
+  },
+  "main_character": {
+    "description": "A young girl wearing a red dress and a straw hat. She has long brown hair and is smiling brightly. She is standing near the oak tree, holding a small basket of flowers.",
+    "appearance": {
+      "attire": "red
+==================================
+Carefully analyze the image to determine the main source of illumination. Pay close attention to the direction and quality of the light, including shadows, highlights, and reflections. Consider elements such as the intensity, color, and angle of the light. Look for any natural or artificial light sources within the scene, such as the sun, lamps, or other lighting fixtures. Based on these observations, generate a detailed and contextually relevant description of the primary source of light in the image.
+==================================
+You are tasked with analyzing the given image thoroughly and generating an accurate, detailed, and contextually relevant textual description. Your analysis should include the following elements:
+
+1. **Symbolic or Thematic Elements**: Identify and describe any symbolic or thematic elements within the image that add depth to the scene. These could be objects, colors, or other visual components that carry deeper meanings or contribute to the overall theme.
+
+2. **Positioning and Interaction of Elements**: Discuss how the positioning of various elements within the image influences their interaction. Consider the spatial relationships, proximity, and alignment of objects and characters, and explain how these factors contribute to the overall composition and narrative of the scene.
+
+3. **Central Topic or Theme**: Determine the central topic or theme depicted in the image by analyzing the relationships and interactions between the identified elements. Explain how these interactions help convey the main message or story of the image.
+
+4. **Main Character's Clothing**: Provide detailed descriptions of the main character's clothing. Include information about the style, color, and any notable features or accessories that contribute to the character's appearance and role within the scene.
+
+The expected output should be in JSON format, structured as follows:
+
+```json
+{
+  "symbolic_or_thematic_elements": "Description of symbolic or thematic elements",
+  "positioning_and_interaction_of_elements": "Analysis of how the positioning of elements influences their interaction",
+  "central_topic_or_theme": "Determination of the central topic or theme",
+  "main_character_clothing": "Detailed description of the main character's clothing"
+}
+```
+
+Ensure that your description is comprehensive and provides a clear understanding of the image's content and context.
+==================================
+To thoroughly analyze the given image and generate an accurate, detailed, and contextually relevant textual description, follow these steps:
+
+1. Carefully examine the image, paying close attention to the elements that appear more blurred or out of focus. Identify these elements and note their positions within the image. Determine whether the blurriness is due to depth of field or motion.
+
+2. Describe the depth of field by explaining which parts of the image are in sharp focus and which parts are blurred. Indicate whether the background, foreground, or specific objects are out of focus, and explain how this affects the overall composition of the image.
+
+3. If motion blur is present, identify the elements that exhibit this characteristic. Describe the direction and extent of the motion blur, and explain how it contributes to the sense of movement within the image.
+
+4. Analyze the image for chromatic aberration, which is often visible as color fringing along the edges of objects. Identify the areas where chromatic aberration is most noticeable and describe the colors and patterns observed. Explain how this optical phenomenon affects the image quality and overall visual experience.
+
+5. Write the description in a journalistic style, focusing on clarity and precision. Ensure that the description is comprehensive and provides a clear understanding of the image's visual characteristics.
+
+The expected output should be a detailed textual description in the following format:
+
+"Image Analysis Report:
+1. Depth of Field: The image exhibits a shallow depth of field, with the main subject in sharp focus while the background elements are noticeably blurred. This creates a sense of depth and draws attention to the subject. Alternatively, if the foreground is blurred, describe how this affects the viewer's perception.
+
+2. Motion Blur: The image captures a dynamic scene with noticeable motion blur. The blurred elements, such as the moving car or person, indicate the direction and speed of movement, adding a sense of action and energy to the image.
+
+3. Chromatic Aberration: The image shows signs of chromatic aberration, particularly along the edges of high-contrast objects. The fringing appears as purple and green hues, which slightly detract from the overall sharpness and clarity of the image. This optical issue is most prominent around the edges of the subject and in areas with strong light contrast.
+
+Overall, the image effectively uses depth of field and motion blur to convey a sense of depth and movement, while the presence of chromatic aberration highlights the limitations of the optical system used to capture the image."
+==================================
+Carefully examine the provided image and identify the primary object within the scene. Focus on detailing any unique or notable characteristics that make this object stand out, such as its shape, color, texture, size, or any other distinguishing attributes. Determine the position of this object in relation to the overall composition of the image, specifying whether it is situated in the foreground, middle ground, or background. Additionally, assess the time of day depicted in the image by observing the quality and direction of light, shadows, and any other relevant environmental cues. Indicate whether it appears to be morning, afternoon, evening, or night. Your final output should be a comprehensive and vivid paragraph that encapsulates all these observations, providing a clear and engaging description of the scene.
+==================================
+Your task is to carefully examine the provided image and generate a comprehensive and precise textual description. Pay particular attention to the lighting within the image, noting how it affects the overall scene, including shadows, highlights, and any specific light sources. 
+
+Additionally, identify any individuals present in the image. Describe their physical appearance in detail, including aspects such as clothing, facial expressions, and any distinguishing features. Also, provide a thorough account of their actions and interactions within the scene.
+
+The expected output should be formatted as a JSON object with the following structure:
+
+```json
+{
+    "lighting": "Detailed description of the lighting, including sources, shadows, highlights, and overall ambiance.",
+    "people": [
+        {
+            "appearance": "Detailed description of the person's physical appearance, including clothing, facial expressions, and distinguishing features.",
+            "actions": "Detailed description of the person's actions and interactions within the scene."
+        },
+        {
+            "appearance": "Detailed description of another person's physical appearance, including clothing, facial expressions, and distinguishing features.",
+            "actions": "Detailed description of this person's actions and interactions within the scene."
+        }
+        // Include additional objects for each person identified in the image
+    ]
+}
+```
+
+Ensure that the description is thorough and contextually relevant, capturing all significant details present in the image.
+==================================
+The instruction should guide the model to carefully examine the provided image and produce a comprehensive, precise, and contextually appropriate textual description. The analysis should include details about the right angles formed by the corners of the image, ensuring that the description is thorough and accurate. The expected output should be structured in JSON format.
+
+Here is the detailed instruction:
+
+1. **Analyze the Image**: Begin by closely inspecting the image to identify and confirm that the corners indeed form right angles. This involves looking at each corner of the image to ensure that the angles are 90 degrees.
+
+2. **Describe the Corners**: Provide a detailed description of the corners, specifying that they form right angles. Mention any relevant observations about the corners that support this conclusion.
+
+3. **Contextual Information**: Include any additional context or relevant details that might help in understanding the significance of the right angles in the image. This could involve the overall shape of the image, the alignment of the edges, or any patterns that emerge from the right angles.
+
+4. **Output in JSON Format**: Structure the detailed description in a JSON format. Ensure that the JSON output is well-organized and accurately reflects the analysis.
+
+Here is an example of the expected JSON output:
+
+```json
+{
+  "description": "The image has four corners, each forming a right angle. The angles at the corners are precisely 90 degrees, indicating that the edges of the image are perpendicular to each other. This creates a rectangular or square shape, depending on the lengths of the sides. The right angles contribute to the overall geometric structure of the image, ensuring that the edges are straight and aligned.",
+  "details": {
+    "corner1": "Right angle (90 degrees)",
+    "corner2": "Right angle (90 degrees)",
+    "corner3": "Right angle (90 degrees)",
+    "corner4": "Right angle (90 degrees)"
+  }
+}
+```
+
+By following these steps, the model will generate a detailed and accurate textual description of the image, focusing on the right angles formed by the corners.
+==================================
+You are required to analyze the given image meticulously and generate an accurate, detailed, and contextually relevant textual description. Your analysis should consider the direction of the light and incorporate an examination of the shadows present in the image. The description should be written in a popular style, providing a clear and vivid picture of the visual experience. 
+
+The expected output should be formatted as JSON and include the following fields:
+- "description": A detailed textual description of the image.
+- "style": The popular style in which the description is written (e.g., narrative, poetic, journalistic).
+
+Here is an example of the expected output format:
+
+```json
+{
+  "description": "A detailed and vivid description of the image, considering the direction of the light and the shadows.",
+  "style": "The popular style in which the description is written."
+}
+```
+
+Ensure that the description is thorough and paints a clear picture for the reader, taking into account the interplay of light and shadow to enhance the overall depiction.
+==================================
+To generate a comprehensive and detailed analysis of the given image, follow these steps:
+
+1. **Depth of Field Analysis**:
+   - Examine the sharpness and clarity of objects at different distances from the camera.
+   - Identify whether the background is blurred or in focus, indicating a shallow or deep depth of field.
+   - Note how the depth of field affects the overall composition and focus of the image.
+
+2. **Primary Subject Position**:
+   - Determine the exact location of the primary subject within the image frame (e.g., center, left, right, top, bottom).
+   - Describe the subject's relationship to other elements in the image and how it draws the viewer's attention.
+
+3. **Lighting and Shadows**:
+   - Observe the quality and direction of light in the image.
+   - Identify any shadows cast by objects or the primary subject.
+   - Analyze how the lighting and shadows contribute to the mood and suggest the time of day (e.g., morning, afternoon, evening).
+
+4. **Contextual Relevance**:
+   - Ensure that the description is contextually relevant, providing insights into the scene, setting, and any potential narrative elements.
+
+5. **JSON Formatting**:
+   - Format the final detailed description in JSON format with a key "description" and the detailed paragraph as its value.
+
+Here is an example of how the output should be structured:
+
+```json
+{
+  "description": "The image showcases a shallow depth of field, with the primary subject sharply in focus while the background is artistically blurred, drawing attention to the subject. The primary subject is positioned slightly off-center to the right, creating a dynamic composition that guides the viewer's gaze. The lighting is soft and diffused, casting gentle shadows that suggest the image was taken in the late afternoon. The interplay of light and shadow adds depth and dimension to the scene, enhancing the overall mood and atmosphere."
+}
+```
+
+By following these steps, you will be able to generate a thorough and accurate textual description of the image, capturing all relevant details and nuances.
+==================================
+Analyze the given image thoroughly and generate an accurate, detailed, and contextually relevant textual description. Your description should cover the following aspects:
+
+1. **Main Object**: Provide a clear understanding of the main object's proportions, including its size, shape, and any distinctive features.
+2. **Weather Conditions**: Describe the weather conditions depicted in the image, such as whether it is sunny, cloudy, rainy, etc.
+3. **Main Character**: If there is a main character in the image, describe their appearance, including clothing, posture, and any notable expressions or actions.
+4. **Color Fringing**: Describe any visible color fringing around the edges of objects in the image.
+5. **Overall Composition**: Describe the overall composition of the image, noting whether it is cluttered or minimalistic, and any other relevant compositional elements.
+
+Your output should be structured as a JSON object with keys for each aspect of the description and corresponding detailed values. Here is the expected format:
+
+```json
+{
+  "main_object": {
+    "proportions": "Description of the main object's size, shape, and distinctive features."
+  },
+  "weather_conditions": "Description of the weather conditions depicted in the image.",
+  "main_character": {
+    "appearance": "Description of the main character's appearance, including clothing, posture, and notable expressions or actions."
+  },
+  "color_fringing": "Description of any visible color fringing around the edges of objects.",
+  "overall_composition": "Description of the overall composition, noting whether it is cluttered or minimalistic, and any other relevant compositional elements."
+}
+```
+
+Ensure that each description is accurate, detailed, and contextually relevant to the image provided.
+==================================
+Carefully examine the prominent features and key elements within the scene, ensuring to note any significant highlights or focal points. Evaluate the relative size and dimensions of the main subject or object in the image, considering its scale in relation to other elements present. Pay close attention to the lighting conditions, including the intensity, quality, and direction of light, and how it affects the appearance and mood of the scene. 
+
+The expected output should be a JSON object with the following structure:
+
+```json
+{
+  "highlights": "A detailed description of the prominent features and key elements within the scene.",
+  "scale_of_primary_object": "An assessment of the relative size and dimensions of the main subject or object in the image.",
+  "lighting": "An analysis of the lighting conditions, including the intensity, quality, and direction of light, and its impact on the scene."
+}
+```
+==================================
+Please carefully examine the provided image and identify each distinct object that is casting a shadow. Your analysis should be thorough, ensuring that all shadow-casting objects are accurately recognized and described. 
+
+The expected output should be in JSON format, with each identified object listed along with its corresponding shadow. The JSON structure should include an array of objects, where each object has the following properties:
+- "object": A brief description or label of the object casting the shadow.
+- "shadow": A brief description or label of the shadow cast by the object.
+
+Here is an example of the expected JSON output:
+
+```json
+[
+  {
+    "object": "tree",
+    "shadow": "elongated dark shape on the ground"
+  },
+  {
+    "object": "car",
+    "shadow": "rectangular dark area adjacent to the car"
+  },
+  {
+    "object": "building",
+    "shadow": "large dark area extending from the base of the building"
+  }
+]
+```
+
+Ensure that each object and its shadow are described in a manner that is contextually relevant to the scene depicted in the image.
+==================================
+Examine the provided image meticulously to identify the region that appears blurred. Carefully observe and describe the dimensions of this blurred area, noting its size in relation to the entire image. Pay attention to the shape of the blurred region, whether it is circular, rectangular, or irregular. Within the blurred area, attempt to identify any distinguishable features or elements that may still be somewhat visible despite the blurring effect. Look for any patterns, such as repeated shapes or colors, within the blurred region that might provide additional context.
+
+Next, describe the overall shape of the image, whether it is square, rectangular, or another form. Note the dimensions of the image, including its width and height, and discuss the proportions, such as whether it is wider than it is tall or vice versa. Identify any relevant geometric characteristics, such as symmetry, angles, or curves, that define the structure of the image.
+
+Ensure that your description is comprehensive and detailed, covering all observed aspects of the image. Maintain contextual relevance by focusing on the visual elements present in the image. Write the description in a free-style paragraph format, ensuring that your response is well-formed, free from syntax errors, and composed of clear and grammatically correct sentences. Avoid incomplete, garbled, or malformed sentences, and provide a clear understanding of the main object's proportions. Additionally, identify any highlights or focal points in the image and describe their placement within the overall composition.
+==================================
+Please thoroughly analyze the provided image, focusing on identifying and highlighting any distinctive features of the main object within the image. The model should generate a detailed and contextually relevant textual description that accurately captures these unique characteristics. Additionally, examine and describe the posture of the main character in the image, providing insights into their stance, body language, and any relevant contextual elements. 
+
+The expected output should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "distinctive_features": "A detailed description of the unique and notable features of the main object.",
+  "posture_analysis": "A comprehensive analysis of the main character's posture, including their stance, body language, and any relevant contextual elements."
+}
+```
+
+Ensure that the description is thorough and provides a clear understanding of both the distinctive features and the posture of the main character.
+==================================
+Carefully examine the image and identify any prominent features or key elements that stand out. Pay close attention to the main subjects or focal points within the scene and describe them in detail. Evaluate how these elements contribute to the overall visual appeal and composition of the image. Consider the arrangement, balance, and harmony of the scene, and how these aspects affect the viewer's perception. Additionally, compare the size and scale of the primary object in relation to other objects or elements present in the image, noting any significant contrasts or similarities. Your description should be a comprehensive and detailed free-style paragraph that captures the essence and context of the image.
+==================================
+Carefully examine the image and identify any unique or distinguishing characteristics of the individuals present, such as their clothing, facial expressions, hairstyles, accessories, or any notable physical features. Additionally, assess the clarity of the different elements within the image. Determine if the background, foreground, or any specific objects appear to be out of focus, and describe how this affects the overall composition and visual emphasis of the image. Your response should be a detailed and contextually relevant paragraph that thoroughly analyzes these aspects.
+==================================
+Carefully analyze the image and identify which elements appear to be in sharp focus. Your description should thoroughly examine the sharpness and clarity of objects located at various distances from the camera. Pay close attention to the details and textures of these objects to determine their level of focus. Additionally, note that the area which appears blurred is centrally positioned in the image. Based on this analysis, generate a detailed and contextually relevant textual description that accurately conveys the observed sharpness and clarity of the different elements within the image. The description should be presented as a free-style paragraph.
+==================================
+Carefully analyze the provided image, paying close attention to the various elements and details. Focus on how the light source impacts the overall visual presentation of the image. Consider aspects such as the direction, intensity, and quality of the light, and how these factors affect the appearance of objects, shadows, highlights, and colors within the image.
+
+Additionally, evaluate the aperture setting used in capturing the image. Describe how the aperture influences the depth of field, sharpness, and exposure. Consider whether the aperture setting contributes to a shallow or deep depth of field, and how this affects the focus and clarity of different elements in the image.
+
+Your output should be a detailed and contextually relevant textual description in JSON format, including the following fields:
+
+```json
+{
+  "light_source_influence": "A detailed description of how the light source affects the image, including direction, intensity, quality, and impact on objects, shadows, highlights, and colors.",
+  "aperture_description": "A comprehensive explanation of the aperture setting, its impact on depth of field, sharpness, exposure, and the overall focus and clarity of the image."
+}
+```
+==================================
+You are tasked with analyzing the provided image thoroughly and generating an accurate, detailed, and contextually relevant textual description. Follow these steps to ensure a comprehensive analysis:
+
+1. **Compare Object Sizes**:
+   - Identify the main object in the image.
+   - Compare the size of this main object relative to other objects or elements within the image.
+   - Provide specific details about the dimensions or proportions of the main object in relation to the other objects or elements.
+
+2. **Describe Reflections**:
+   - Examine the image for any reflections.
+   - Identify the surfaces or objects that are reflecting light or other objects.
+   - Describe the nature and clarity of these reflections, including any notable details that are visible within them.
+
+3. **Consider Shadows**:
+   - Identify the objects within the image that are casting shadows.
+   - Describe the direction, length, and intensity of these shadows.
+   - Note any interactions between the shadows and other elements within the image, such as overlapping shadows or shadows falling on specific surfaces.
+
+4. **Interpret Facial Expressions**:
+   - Focus on the subjects within the image, particularly their facial expressions.
+   - Analyze the features such as the eyes, mouth, and overall facial posture to interpret the emotions being conveyed.
+   - Provide a detailed description of the emotions, considering the context of the scene and the interactions between subjects.
+
+The expected output should be in JSON format, structured as follows:
+
+```json
+{
+  "main_object_size_comparison": {
+    "main_object": "description of the main object",
+    "comparison": "detailed comparison of the main object's size relative to other objects or elements"
+  },
+  "reflections": {
+    "reflection_sources": [
+      {
+        "surface_or_object": "description of the reflecting surface or object",
+        "details": "detailed description of the reflection, including clarity and visible details"
+      },
+      ...
+    ]
+  },
+  "shadows": {
+    "shadow_sources": [
+      {
+        "object_casting_shadow": "description of the object casting the shadow",
+        "shadow_details": "detailed description of the shadow, including direction, length, and intensity"
+      },
+      ...
+    ]
+  },
+  "facial_expressions": {
+    "subjects": [
+      {
+        "subject": "description of the subject",
+        "emotions": "detailed interpretation of the subject's emotions based on facial expressions"
+      },
+      ...
+    ]
+  }
+}
+```
+
+Ensure that each section is filled with detailed and context
+==================================
+To generate a comprehensive and detailed analysis of the given image, follow these steps:
+
+1. **Identify and Describe Objects**: Examine the image and identify all the objects present. For each object, highlight any distinctive features that make it stand out. These features could include color, texture, shape, size, and any unique markings or patterns.
+
+2. **Analyze Lighting and Shadows**: Observe the lighting in the image. Describe how the light interacts with the objects and the environment. Note the direction, intensity, and quality of the light. Pay attention to the shadows cast by the objects and how they contribute to the overall mood of the image. Based on the lighting and shadows, suggest the possible time of day (e.g., morning, afternoon, evening).
+
+3. **Evaluate Light Quality**: Determine whether the light in the image appears to be soft or harsh. Soft light typically creates gentle, diffused shadows and a more even illumination, while harsh light produces sharp, well-defined shadows and strong contrasts.
+
+4. **Size Comparison**: Compare the size of the main object to known reference points within the image. This could include other objects, people, or elements of the environment that provide a sense of scale.
+
+5. **Generate JSON Output**: Structure the analysis in a JSON format, ensuring that each aspect of the analysis is clearly and accurately represented. The JSON output should include sections for object descriptions, lighting and shadow analysis, light quality evaluation, and size comparison.
+
+Here is an example of the expected JSON output:
+
+```json
+{
+  "objects": [
+    {
+      "name": "object1",
+      "distinctive_features": "Description of distinctive features such as color, texture, shape, size, and unique markings."
+    },
+    {
+      "name": "object2",
+      "distinctive_features": "Description of distinctive features such as color, texture, shape, size, and unique markings."
+    }
+  ],
+  "lighting_and_shadows": {
+    "description": "Detailed analysis of how the light interacts with the objects and environment, including the direction, intensity, and quality of the light. Description of the shadows and their contribution to the mood of the image.",
+    "time_of_day": "Suggested time of day based on the lighting and shadows."
+  },
+  "light_quality": "Description of whether the light appears to be soft or harsh.",
+  "size_comparison": "Comparison of the size of the main object to known reference points within the image."
+}
+```
+
+By following these steps,
+==================================
+Carefully examine the image and identify any prominent objects or items that stand out. Describe each object in detail, including its appearance, size, color, and any distinguishing features. Explain the role or significance of these objects within the context of the scene, considering how they contribute to the overall setting, mood, or narrative. For example, if the image depicts a living room, note the presence of furniture, decorations, and any personal items, and discuss how these elements reflect the lifestyle or personality of the inhabitants. Your description should be thorough and provide a clear understanding of the scene's composition and the importance of each significant object within it.
+==================================
+When analyzing the given image, carefully observe and interpret the body language of all individuals present. Note their postures, gestures, facial expressions, and any interactions among them to understand their emotions and intentions. Additionally, assess the overall atmosphere of the setting, considering elements such as lighting, colors, and background details to convey the mood accurately. Focus on identifying the main object in the image and describe its size in relation to familiar reference points, such as the height of a person, the size of common furniture, or other recognizable items within the scene. Your goal is to generate a comprehensive and vivid textual description that captures the essence of the image in a free-style paragraph.
+==================================
+Analyze the provided image meticulously and generate a comprehensive, precise, and contextually appropriate textual description. Your analysis should include the following elements:
+
+1. A detailed and vivid description of the visual characteristics present in the image. This should encompass aspects such as shapes, textures, patterns, and any notable features that contribute to the overall appearance of the image.
+2. Identification of the primary object or subject that is the main focus of the image. Describe this object in detail, including its size, shape, and any distinguishing features.
+3. Identification and description of the colors involved in any fringing or outlining effects present in the image. Specify the colors observed, such as red, blue, green, or purple, and describe how these colors contribute to the visual impact of the image.
+
+The expected output should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "description": "A detailed and vivid description of the visual characteristics in the image.",
+  "primary_object": "A detailed description of the primary object of focus in the image.",
+  "fringing_colors": "A description of the colors involved in the fringing, such as red, blue, green, or purple."
+}
+```
+
+Ensure that your analysis is thorough and that the generated description is accurate and contextually relevant to the image provided.
+==================================
+The instruction should guide the model to analyze the given image thoroughly and generate an accurate, detailed, and contextually relevant textual description. The description should include information about the shapes, patterns, symmetry, and arrangement of elements within the image. The model should consider aspects such as the types of geometric shapes present, their sizes, colors, positions, and how they interact with each other to create a sense of order and structure. The expected output should be in JSON format and include the following fields:
+
+- "shapes": A list of the different geometric shapes identified in the image (e.g., circles, squares, triangles).
+- "patterns": A description of any repeating patterns or sequences observed.
+- "symmetry": An analysis of the symmetry in the image, noting whether it is symmetrical and the axis or axes of symmetry.
+- "arrangement": Details about the arrangement of elements, including their alignment, spacing, and any notable organization principles.
+- "colors": Information about the colors of the geometric shapes and how color contributes to the orderly appearance.
+- "context": Any additional context or relevant information that helps to understand the overall structure and orderliness of the image.
+
+The JSON output should be structured as follows:
+
+```json
+{
+  "shapes": ["list of shapes"],
+  "patterns": "description of patterns",
+  "symmetry": "description of symmetry",
+  "arrangement": "description of arrangement",
+  "colors": "description of colors",
+  "context": "additional context"
+}
+```
+==================================
+Please analyze the given image thoroughly and generate an accurate, detailed, and contextually relevant textual description. Follow these steps:
+
+1. Examine the image carefully to identify the presence of shadows.
+2. Observe and note the direction in which the shadows are cast.
+3. Assess the sharpness of the shadows, indicating whether they are well-defined or diffuse.
+4. Identify each object or entity in the image that is casting a shadow.
+5. Ensure that the output is free from any form of corruption or errors.
+6. If there are any human or animal figures in the image, analyze their facial features to determine and note any emotions being conveyed.
+
+The expected output should be structured in JSON format as follows:
+
+```json
+{
+  "shadows": {
+    "direction": "direction of the shadows",
+    "sharpness": "sharpness of the shadows"
+  },
+  "objects_casting_shadows": [
+    "list of objects casting shadows"
+  ],
+  "facial_emotions": [
+    {
+      "entity": "description of the entity",
+      "emotion": "emotion conveyed by facial features"
+    }
+  ]
+}
+```
+
+Ensure that each section is filled with detailed and contextually relevant information based on your analysis of the image.
+==================================
+To generate a comprehensive and accurate textual description of the given image, follow these detailed instructions:
+
+1. **Identify Elements in Sharp Focus**:
+    - Carefully examine the image to determine which objects, subjects, or elements are in sharp focus. 
+    - List each element that is clearly defined and distinguishable from the background or other parts of the image.
+    - Provide a brief description of each element, including any notable features or characteristics.
+
+2. **Describe Body Language**:
+    - Observe the posture of each subject in the image. Note whether they are standing, sitting, leaning, or in any other position.
+    - Detail any gestures made by the subjects, such as hand movements, facial expressions, or other physical actions.
+    - Describe any physical interactions between subjects, such as touching, holding, pointing, or other forms of contact.
+
+3. **Analyze Interactions**:
+    - Explain how the body language and physical interactions between subjects contribute to the overall context of the scene.
+    - Discuss the possible emotions, relationships, or dynamics suggested by these interactions.
+    - Consider how these elements collectively enhance the viewer's understanding of the scene, providing insights into the narrative, mood, or significance of the moment captured in the image.
+
+4. **Expected Output Format**:
+    - Present the analysis in a structured JSON format with clear sections for each part of the description.
+    - Ensure that the JSON output is well-organized and easy to interpret.
+
+Here is an example of the expected JSON output:
+
+```json
+{
+  "elements_in_sharp_focus": [
+    {
+      "element": "subject1",
+      "description": "A person wearing a blue shirt and glasses, standing near the center of the image."
+    },
+    {
+      "element": "object1",
+      "description": "A red bicycle leaning against a wall in the background."
+    }
+  ],
+  "body_language": [
+    {
+      "subject": "subject1",
+      "posture": "standing",
+      "gestures": "holding a book in one hand, the other hand raised as if explaining something",
+      "physical_interactions": "none"
+    },
+    {
+      "subject": "subject2",
+      "posture": "sitting",
+      "gestures": "looking up at subject1, smiling",
+      "physical_interactions": "none"
+    }
+  ],
+  "interaction_analysis": {
+    "context": "The scene appears to be a casual conversation between two friends.",
+    "emotions": "
+==================================
+Please analyze the given image thoroughly and generate an accurate, detailed, and contextually relevant textual description. Your description should include the following elements:
+
+1. **People**: Describe any individuals present in the image, including their physical appearance, clothing, accessories, and any unique attributes or actions they are performing.
+2. **Animals**: Identify and describe any animals in the image, noting their species, appearance, and behavior.
+3. **Buildings**: Provide details about any buildings visible in the image, including their architectural style, condition, and any distinguishing features.
+4. **Natural Elements**: Describe any natural elements such as trees, plants, water bodies, mountains, or weather conditions present in the image.
+5. **Man-made Objects**: Identify and describe any man-made objects, such as vehicles, furniture, tools, or other items, noting their condition and any notable features.
+6. **Shadows**: Identify the objects that are casting shadows in the image. Describe the shapes and positions of these objects, as well as the direction in which the shadows are cast.
+
+The expected output should be in JSON format, structured as follows:
+
+```json
+{
+  "people": [
+    {
+      "description": "Detailed description of the person, including appearance, clothing, accessories, and actions."
+    },
+    ...
+  ],
+  "animals": [
+    {
+      "description": "Detailed description of the animal, including species, appearance, and behavior."
+    },
+    ...
+  ],
+  "buildings": [
+    {
+      "description": "Detailed description of the building, including architectural style, condition, and distinguishing features."
+    },
+    ...
+  ],
+  "natural_elements": [
+    {
+      "description": "Detailed description of the natural element, including type, appearance, and any notable features."
+    },
+    ...
+  ],
+  "man_made_objects": [
+    {
+      "description": "Detailed description of the man-made object, including type, condition, and notable features."
+    },
+    ...
+  ],
+  "shadows": [
+    {
+      "object": "Description of the object casting the shadow.",
+      "shadow_description": "Detailed description of the shadow, including shape, position, and direction."
+    },
+    ...
+  ]
+}
+```
+
+Ensure that each section is populated with relevant and detailed information based on the analysis of the image.
+==================================
+You are tasked with analyzing the provided image in great detail. Your goal is to generate a comprehensive and accurate textual description of the main object's shape, taking into account the intensity and distribution of light within the scene. 
+
+To achieve this, follow these steps:
+
+1. **Identify the Main Object**: Determine which object in the image is the primary focus. This could be based on size, position, or prominence within the scene.
+
+2. **Analyze the Shape**: Carefully examine the contours, edges, and overall form of the main object. Describe its geometric characteristics, such as whether it is circular, rectangular, triangular, or an irregular shape. Note any distinctive features or patterns that contribute to its shape.
+
+3. **Consider Light Intensity**: Observe how light interacts with the main object. Describe the light source(s) and how the intensity of the light affects the visibility and perception of the object's shape. Note areas of the object that are well-lit versus those in shadow, and how this lighting creates highlights, shadows, and gradients on the object's surface.
+
+4. **Contextual Relevance**: Ensure that your description is contextually relevant to the scene. Mention any environmental factors or surrounding elements that might influence the appearance of the main object.
+
+Your output should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "main_object_shape": "Description of the main object's shape",
+  "light_intensity_effect": "Description of how light intensity affects the object's appearance"
+}
+```
+
+Here is an example of the expected output:
+
+```json
+{
+  "main_object_shape": "The main object has a cylindrical shape with smooth, rounded edges and a uniform surface.",
+  "light_intensity_effect": "The object is illuminated from the top right, creating a bright highlight on the upper right side and a soft shadow on the lower left side, emphasizing its three-dimensional form."
+}
+```
+
+By following these guidelines, you will provide a thorough and contextually accurate description of the main object's shape and the impact of light intensity in the scene.
+==================================
+Analyze the given image thoroughly, focusing on the body language of the individuals present. Observe their posture, gestures, facial expressions, and any other relevant physical cues. Based on these observations, generate an accurate, detailed, and contextually relevant textual description of the emotions being expressed by the individuals. 
+
+The expected output should be in JSON format, structured as follows:
+
+```json
+{
+  "individuals": [
+    {
+      "id": 1,
+      "emotions": "description of the emotions",
+      "body_language": "description of the body language cues"
+    },
+    {
+      "id": 2,
+      "emotions": "description of the emotions",
+      "body_language": "description of the body language cues"
+    },
+    ...
+  ]
+}
+```
+
+Ensure each individual's emotions and body language are described comprehensively, providing a clear understanding of their emotional state based on the visual cues observed in the image.
+==================================
+You are tasked with thoroughly analyzing the given image and generating a detailed, accurate, and contextually relevant textual description. Your analysis should cover the following aspects:
+
+1. **Depth of Field**: Discuss the concept of depth of field as it pertains to the image. Explain how the depth of field influences which elements in the image are in sharp focus and which are blurred. Describe how this affects the overall composition and visual impact of the image.
+
+2. **Focus of Elements**: Identify the different elements within the image and analyze how the depth of field affects their focus. Specify which elements are in the foreground, midground, and background, and describe the level of sharpness or blur for each.
+
+3. **Location or Environment**: Identify and describe the location or environment depicted in the image. Provide details about the setting, including any notable landmarks, natural features, or human-made structures. Describe the atmosphere or mood conveyed by the environment.
+
+4. **Arrangement, Balance, and Harmony**: Analyze the arrangement of elements within the image. Discuss how the composition achieves balance and harmony, and how these aspects affect the viewer's perception. Consider the placement of objects, the use of symmetry or asymmetry, and the overall visual flow.
+
+The expected output should be in JSON format and include the following fields:
+
+- `depth_of_field`: A detailed discussion of the depth of field in the image.
+- `focus_of_elements`: An analysis of how the depth of field affects the focus of different elements in the image.
+- `location_or_environment`: A description of the location or environment depicted in the image.
+- `arrangement_balance_harmony`: An analysis of the arrangement, balance, and harmony within the image.
+
+Here is an example of the expected JSON output:
+
+```json
+{
+  "depth_of_field": "A detailed discussion of the depth of field in the image.",
+  "focus_of_elements": "An analysis of how the depth of field affects the focus of different elements in the image.",
+  "location_or_environment": "A description of the location or environment depicted in the image.",
+  "arrangement_balance_harmony": "An analysis of the arrangement, balance, and harmony within the image."
+}
+```
+==================================
+Please carefully analyze the background and setting of the provided image to fully understand its context. For each object within the image, provide a detailed description that includes the following aspects: 
+
+1. **Appearance**: Describe the overall look and form of the object.
+2. **Size**: Estimate the relative size of the object within the context of the image.
+3. **Color**: Identify the colors present on the object, noting any variations or patterns.
+4. **Distinctive Features**: Highlight any unique or notable characteristics that distinguish the object from others.
+
+Additionally, perform a symmetry analysis by identifying and describing any axes of symmetry present in the objects or the overall composition of the image. 
+
+Lastly, evaluate the image for chromatic aberration, noting if it is noticeable and describing its impact on the image quality.
+
+The expected output should be structured in JSON format as follows:
+
+```json
+{
+  "background": {
+    "description": "Detailed description of the background and setting",
+    "context": "Contextual understanding of the image setting"
+  },
+  "objects": [
+    {
+      "appearance": "Description of the object's appearance",
+      "size": "Estimated relative size of the object",
+      "color": "Colors present on the object",
+      "distinctive_features": "Unique characteristics of the object"
+    },
+    {
+      "appearance": "Description of the object's appearance",
+      "size": "Estimated relative size of the object",
+      "color": "Colors present on the object",
+      "distinctive_features": "Unique characteristics of the object"
+    }
+    // Repeat for each object in the image
+  ],
+  "symmetry_analysis": {
+    "axes_of_symmetry": "Description of any axes of symmetry present"
+  },
+  "chromatic_aberration": {
+    "noticeable": "Boolean indicating if chromatic aberration is noticeable",
+    "description": "Description of the impact of chromatic aberration on the image quality"
+  }
+}
+```
+
+This format ensures a comprehensive and structured analysis of the image, providing an accurate, detailed, and contextually relevant textual description.
+==================================
+You are tasked with analyzing the given image thoroughly and generating an accurate, detailed, and contextually relevant textual description. Your analysis should focus on the following aspects:
+
+1. **Proportions**: Determine the dimensions of the image. Specifically, assess whether the image is wider than it is tall or taller than it is wide. Provide a clear statement about the orientation and proportions of the image.
+
+2. **Quality of Light**: Evaluate the lighting in the image. Describe whether the light appears to be soft or harsh. Soft light typically has a gentle, diffused quality with minimal shadows, while harsh light is more direct, creating strong contrasts and sharp shadows.
+
+Your output should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "proportions": "wider_than_tall" or "taller_than_wide",
+  "light_quality": "soft" or "harsh"
+}
+```
+
+Ensure that your description is accurate and provides a clear understanding of the image's proportions and lighting quality.
+==================================
+Analyze the given image thoroughly, paying close attention to the subtleties and variations in the shadows. Describe how the shadows interact with the objects and the environment, noting any gradients, sharpness, or diffusion. Additionally, identify and specify the areas where chromatic aberration is present, detailing the colors and the extent of the aberration in those locations. The expected output should be a free-style paragraph that provides an accurate, detailed, and contextually relevant textual description of the image, emphasizing the nuances of the shadows and including a "location" field for chromatic aberration.
+==================================
+Please provide a detailed analysis of the given image and generate an accurate, comprehensive, and contextually relevant textual description. Your analysis should cover all visible elements, their relationships, and any inferred context or activities. Ensure that your description is thorough and precise, capturing the essence of the image.
+
+The expected output should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "description": "A detailed textual description of the image.",
+  "elements": [
+    {
+      "type": "Type of element (e.g., person, object, animal, etc.)",
+      "attributes": {
+        "attribute1": "Description of attribute1",
+        "attribute2": "Description of attribute2",
+        // Additional attributes as needed
+      },
+      "relationships": [
+        {
+          "type": "Type of relationship (e.g., holding, sitting on, next to, etc.)",
+          "target": "Description of the target element"
+        }
+        // Additional relationships as needed
+      ]
+    }
+    // Additional elements as needed
+  ],
+  "context": "Inferred context or activities happening in the image."
+}
+```
+
+Make sure to avoid making any assumptions about specific training data or dates.
+==================================
+Carefully examine the given image and identify any instances of color fringing, which is a visual artifact where colors appear misaligned at the edges of objects. Describe each occurrence in detail, specifying the exact location within the image where the color fringing is observed. For each identified instance, provide a separate and distinct description. Ensure that your analysis is thorough and that you cover all areas of the image where this phenomenon is present. 
+
+---
+
+For example, if color fringing is seen around the edges of a building, note the specific part of the building and the colors involved. If it appears around text or other objects, describe these instances with similar detail.
+==================================
+Analyze the provided image carefully, focusing on the tree and its shadow. Observe the position, length, and angle of the shadow in relation to the tree. Consider the light source's direction and how it affects the shadow's orientation. Generate a detailed and accurate textual description of the shadow's direction, ensuring it is contextually relevant to the scene depicted in the image. 
+
+The expected output should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "shadow_direction": "description of the shadow's direction"
+}
+```
+==================================
+Carefully analyze the given image to determine the dimensions of the primary object, providing a detailed description of its size in relation to other elements within the image. Pay close attention to any distinctive markings, patterns, or textures present on each object, describing these features with precision and clarity. Additionally, inspect the edges of all objects within the image for any signs of color fringing or chromatic aberration, and describe these occurrences in detail, noting their locations and the specific colors involved. Your final output should be a comprehensive, free-style paragraph that thoroughly describes these aspects of the image.
+==================================
+Please examine the given image carefully and identify the primary object that stands out or is the central focus of the image. Analyze the object in detail, considering its physical characteristics, such as shape, size, color, texture, and any distinguishing features. Additionally, observe the context in which the object is placed, including its surroundings, background, and any interactions with other elements in the image. 
+
+Generate a comprehensive and accurate description of the main object and its context in the form of a JSON output. The JSON should include the following fields:
+
+- "main_object": A detailed description of the primary object, including its physical attributes and any notable features.
+- "context": A description of the surroundings or background where the main object is located, including any other elements that interact with or are related to the main object.
+- "overall_impression": A summary of the overall impression or significance of the main object within the image.
+
+Example JSON output:
+
+```json
+{
+  "main_object": "A large, red apple with a glossy surface, a small brown stem, and a few tiny blemishes on its skin.",
+  "context": "The apple is placed on a wooden table with a rustic texture. In the background, there is a blurred image of a kitchen with various utensils and a window letting in natural light.",
+  "overall_impression": "The apple appears fresh and ripe, suggesting it is ready to be eaten. The setting gives a warm and homely feel, emphasizing the simplicity and natural beauty of the scene."
+}
+```
+==================================
+Carefully examine the given image and identify any objects that appear to be out of focus. Your analysis should be thorough and detailed, describing the characteristics and positions of these objects within the image. Provide a comprehensive and contextually relevant textual description that accurately conveys the visual elements of the image, focusing particularly on the objects that lack sharpness or clarity. Ensure that your response is clear, precise, and free from any form of corruption or inaccuracies.
+==================================
+Carefully examine the image and assess the relative size of the primary subject in comparison to other elements within the frame. Consider factors such as the subject's height, width, and overall proportions. Additionally, analyze the context in which the subject is placed, noting any relevant background details or surrounding objects that might provide further insight into the subject's scale. 
+
+In your JSON output, include a field labeled "context" where you can provide any supplementary information or observations that enhance the understanding of the scene. This could include details about the environment, the relationship between the subject and other objects, or any notable features that contribute to the overall interpretation of the image.
+
+Furthermore, evaluate how the sharpness and clarity of the shadows in the image influence the perception of depth. Discuss how well-defined shadows can create a sense of three-dimensionality and spatial relationships between objects, while softer or diffused shadows might affect this perception differently. 
+
+Your description should be presented as a coherent and detailed paragraph, ensuring that each sentence is complete and contributes meaningfully to the overall analysis.
+==================================
+Please analyze the given image thoroughly and generate an accurate, detailed, and contextually relevant textual description. Begin by identifying and describing the central topic or theme depicted in the image. Pay close attention to the interplay of light and shadows, noting how they contribute to the overall mood and composition. Examine the background of the image, providing details about any elements or scenery present. Additionally, include the size of each object within the image, offering specific measurements or relative comparisons to other objects to give a clear sense of scale. Your description should be presented as a free-style paragraph, rich in detail and context.
+==================================
+You are required to analyze the provided image meticulously and generate a comprehensive, precise, and contextually appropriate textual description. Your analysis should cover the following aspects in detail:
+
+1. **Distinguishing Attributes of the Primary Object**: Identify and highlight any unique or notable features of the main object in the image. This could include its color, shape, size, texture, or any other characteristic that sets it apart.
+
+2. **Condition of the Buildings**: Assess the state of any buildings present in the image. Describe their condition, noting any signs of wear and tear, maintenance, architectural style, or other relevant details that provide insight into their current state.
+
+3. **Body Language of Individuals**: Observe and describe the body language of any people in the image. This includes their posture, gestures, facial expressions, and any interactions between individuals that can provide context about their emotions or actions.
+
+4. **Light Source Position**: Determine the position of the light source in relation to the objects in the image by analyzing the direction and length of shadows. Describe how the light source affects the overall illumination and visibility of the scene.
+
+The expected output should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "primary_object_attributes": {
+    "color": "description of the color",
+    "shape": "description of the shape",
+    "size": "description of the size",
+    "texture": "description of the texture",
+    "other_distinguishing_features": "any other notable features"
+  },
+  "buildings_condition": "detailed description of the condition of the buildings",
+  "individuals_body_language": [
+    {
+      "individual_1": "description of the body language",
+      "individual_2": "description of the body language",
+      "individual_3": "description of the body language"
+    }
+  ],
+  "light_source_position": "description of the light source position based on shadows"
+}
+```
+
+Ensure that your description is thorough and provides a clear understanding of the image's context and elements.
+==================================
+Carefully examine the image and consider all visual elements such as colors, lighting, facial expressions, body language, and the environment. Analyze how these elements interact to create an overall atmosphere or emotional tone. Then, generate a detailed and contextually relevant textual description that conveys the mood of the image. Describe the feelings or emotions that the image evokes, and provide specific details that support your interpretation. Ensure your description is thorough and paints a vivid picture for the reader, capturing the essence of the mood portrayed in the image.
+==================================
+Please thoroughly analyze the provided image, paying close attention to any areas where color fringing, also known as chromatic aberration, might be present. Color fringing typically appears as unwanted color outlines or halos around the edges of objects within the image. 
+
+Your task is to generate a detailed and accurate textual description of any detected instances of color fringing. This description should include the specific locations within the image where the color fringing is observed, the colors involved, and the severity of the fringing. 
+
+The expected output should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "color_fringing_instances": [
+    {
+      "location": "description of the location within the image (e.g., top-left corner, around the edges of a specific object)",
+      "colors_involved": "description of the colors observed in the fringing (e.g., purple and green)",
+      "severity": "description of the severity (e.g., mild, moderate, severe)"
+    },
+    {
+      "location": "description of another location within the image if applicable",
+      "colors_involved": "description of the colors observed in the fringing",
+      "severity": "description of the severity"
+    }
+    // Additional instances as needed
+  ]
+}
+```
+
+Ensure that your analysis is comprehensive and that all relevant details are included in the JSON output.
+==================================
+The instruction should guide the model to analyze the given image thoroughly and generate an accurate, detailed, and contextually relevant textual description. Avoid generating statements that imply specific training data or dates. It should describe the expected output as JSON.
+
+1. Examine the lighting in the image, specifically focusing on the use of bounce flash. Describe how the bounce flash affects the overall mood and atmosphere of the scene. Consider aspects such as the softness or harshness of the light, the presence of shadows, and the overall illumination.
+
+2. Provide a detailed and vivid description of the visual characteristics present in the image. This should include information about the colors, textures, and any notable objects or elements within the scene. Mention the arrangement and interaction of these elements to give a clear picture of the visual composition.
+
+3. Assess the composition of the image, noting whether it is cluttered or minimalistic. Describe the organization of elements within the frame and how this contributes to the overall aesthetic and focus of the image.
+
+The expected output should be in JSON format, structured as follows:
+
+```json
+{
+  "lighting": {
+    "type": "bounce flash",
+    "impact_on_mood": "Description of how the bounce flash affects the mood and atmosphere of the scene"
+  },
+  "visual_characteristics": {
+    "colors": "Description of the colors present in the image",
+    "textures": "Description of the textures present in the image",
+    "notable_elements": "Description of any notable objects or elements within the scene"
+  },
+  "composition": {
+    "style": "cluttered or minimalistic",
+    "organization": "Description of the arrangement and interaction of elements within the frame"
+  }
+}
+```
+==================================
+Carefully examine the various elements within the image to determine the type of location being depicted. Pay close attention to details such as architectural features, natural surroundings, objects, and any human activities or presence. Consider aspects like the style of buildings, the layout of the area, vegetation, signage, and any other contextual clues that might indicate whether the location is urban, rural, commercial, residential, recreational, or otherwise. Based on these observations, generate a comprehensive and contextually rich textual description that accurately conveys the nature and characteristics of the location. The description should be written in a free-style paragraph format, providing a vivid and detailed portrayal of the environment.
+==================================
+Carefully examine the given image and assess the overall balance and harmony within the scene. Pay attention to the arrangement and interaction of various elements such as objects, colors, lighting, and composition. Describe how these elements contribute to the visual equilibrium and aesthetic appeal of the scene. 
+
+Your analysis should be thorough and detailed, capturing the nuances of the image. Ensure that your description is contextually relevant and accurately reflects the visual content. 
+
+The expected output should be in JSON format, structured as follows:
+
+```json
+{
+  "description": "A detailed and contextually relevant textual description of the image, focusing on the balance and harmony of the scene."
+}
+```
+
+Here is an example of the expected output:
+
+```json
+{
+  "description": "The image depicts a serene landscape with a clear blue sky and a calm lake. The trees on either side of the lake are symmetrically positioned, creating a sense of balance. The soft lighting enhances the tranquility of the scene, while the reflection of the trees in the water adds to the harmony. The colors are well-coordinated, with shades of green, blue, and brown blending seamlessly. Overall, the composition exudes a peaceful and harmonious atmosphere."
+}
+```
+
+Ensure that your description is comprehensive and accurately captures the essence of the image.
+==================================
+The instruction should guide the model to carefully examine the provided image, focusing on identifying and describing the central area that appears blurred. The model should analyze the image thoroughly, noting the position, extent, and any distinguishable features of the blurred region. The description should be accurate, detailed, and contextually relevant, providing a clear understanding of the image's content. 
+
+The expected output should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "description": "A detailed description of the image, specifically highlighting the centrally positioned blurred area, including its size, shape, and any identifiable elements within or around it."
+}
+```
+==================================
+Please analyze the given image comprehensively, focusing on identifying and describing any geometric characteristics that are evident within the structure. Your analysis should include observations on symmetry, angles, curves, and any other geometric features that contribute to the overall form and design of the image. Ensure that your description is accurate, detailed, and contextually relevant to the image provided. 
+
+The expected output should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "symmetry": "Description of any symmetrical properties observed in the image",
+  "angles": "Description of the types and measurements of angles present in the image",
+  "curves": "Description of any curves, including their shapes and how they contribute to the structure",
+  "additional_features": "Description of any other relevant geometric characteristics observed in the image"
+}
+```
+
+For example, if the image contains a symmetrical shape, specify the axis of symmetry and the nature of this symmetry. If there are angles, describe their types (acute, right, obtuse) and approximate measurements. For curves, detail their forms (circular, elliptical, parabolic) and their role in the overall structure. Include any other geometric observations that are pertinent to the image's design.
+==================================
+Carefully inspect the image and provide a comprehensive description of the reflections that are visible. Identify the sources of these reflections and explain how they interact with and affect the surrounding environment. Consider aspects such as the surfaces that are reflecting light, the objects or scenes being reflected, the clarity and distortion of the reflections, and the overall impact on the visual composition of the image. 
+
+The expected output should be in JSON format and include detailed observations about the reflections, their sources, and their interactions with the environment. Here is an example structure for the JSON output:
+
+```json
+{
+  "reflections": [
+    {
+      "source": "source_description",
+      "surface": "surface_description",
+      "clarity": "clarity_description",
+      "distortion": "distortion_description",
+      "interaction_with_environment": "interaction_description"
+    },
+    {
+      "source": "source_description",
+      "surface": "surface_description",
+      "clarity": "clarity_description",
+      "distortion": "distortion_description",
+      "interaction_with_environment": "interaction_description"
+    }
+    // Additional reflection objects as needed
+  ],
+  "overall_impact": "overall_impact_description"
+}
+```
+
+Ensure that each reflection object includes a detailed description of the source, the surface it is reflected on, the clarity and distortion of the reflection, and how it interacts with the surrounding environment. The overall impact should summarize how these reflections contribute to the image as a whole.
+==================================
+Carefully examine the provided image of the buildings, paying close attention to any visible details that indicate their condition. Look for signs of wear and tear such as cracks in the walls, peeling paint, broken windows, or any structural damage. Note the state of the roofs, including any missing or damaged shingles. Observe the overall cleanliness of the buildings, including any graffiti, dirt, or debris present. Additionally, assess the condition of any surrounding areas, such as sidewalks, landscaping, or nearby structures, to provide a comprehensive description. Your goal is to generate a detailed and contextually relevant textual description that accurately reflects the current state of the buildings, highlighting any specific areas that show signs of aging or neglect.
+==================================
+Carefully examine the provided image, paying close attention to the position of the shadow in relation to the tree. Your analysis should be thorough, considering the direction, length, and placement of the shadow as it pertains to the tree's location. 
+
+After your analysis, generate a detailed and contextually relevant textual description of the image in the form of a free-style paragraph. This description should be accurate and comprehensive, capturing all relevant details observed in the image.
+
+Additionally, structure your output as a JSON object. Ensure that the JSON object is clear, well-organized, and grammatically correct. The JSON object must include an array named "color_fringing_instances," which should contain any instances of color fringing observed in the image. 
+
+Here is an example of the expected output format:
+
+{
+  "description": "In the image, the tree stands tall with its shadow extending to the right, indicating the light source is from the left. The shadow is elongated, suggesting it is either early morning or late afternoon. The tree's leaves are a vibrant green, and there are no visible signs of color fringing around the edges of the tree or its shadow.",
+  "color_fringing_instances": []
+}
+==================================
+To generate a detailed and contextually relevant textual description of the given image, follow these instructions:
+
+1. Begin by thoroughly analyzing the entire image, paying close attention to all visible elements and their interactions.
+2. Identify and describe the primary subjects within the image, including any human or animal figures. 
+3. For human or animal figures, examine their facial features to determine and note any emotions being conveyed. Describe these emotions in detail, considering expressions, body language, and any contextual clues from the scene.
+4. Observe and detail the interactions between individuals within the scene. Describe how they are positioned relative to each other, any physical contact, gestures, or actions that suggest a relationship or interaction.
+5. Identify and describe any instances of chromatic aberration within the image. Specify the exact location of the chromatic aberration, detailing where it appears and how it affects the visual quality of the image.
+6. Compile all these observations into a coherent and detailed free-style paragraph that captures the essence of the scene.
+
+The expected output should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "description": "A detailed free-style paragraph describing the image, including subjects, emotions, interactions, and chromatic aberration.",
+  "location": "Specific location of chromatic aberration within the image."
+}
+```
+
+Ensure that the description is comprehensive, accurate, and provides a vivid portrayal of the scene based on the visual analysis.
+==================================
+To generate a comprehensive and contextually relevant textual description of the given image, follow these detailed instructions:
+
+1. Begin by thoroughly analyzing the lighting in the image. Focus on how the lighting conditions affect the overall appearance of the fringing. Consider factors such as the direction, intensity, and color of the light. Discuss whether the lighting enhances the visibility of the fringing by making it more pronounced or diminishes it by causing it to blend into the background.
+
+2. Next, examine the reflections present in the image. Pay attention to their characteristics, including clarity, distortion, and color. Describe how clear or blurred the reflections are, noting any specific areas where distortion is evident. Additionally, analyze the colors within the reflections and how they interact with the surrounding elements in the image.
+
+3. Combine these observations into a cohesive paragraph that provides a detailed and accurate description of the image. Ensure that the description is contextually relevant and free of any assumptions about specific training data or dates.
+
+4. Structure the JSON output clearly and ensure it is grammatically correct. The output should be organized in a way that makes it easy to understand and interpret.
+
+Expected Output:
+The image showcases a scene where the lighting plays a crucial role in highlighting the fringing effect. The light source appears to be coming from the top left corner, casting a soft glow that accentuates the edges of the objects, making the fringing more noticeable. The reflections in the image are relatively clear, with minimal distortion, allowing for a crisp and accurate representation of the surrounding environment. The colors within the reflections are vibrant and true to life, adding depth and dimension to the overall composition. The interplay between the lighting and reflections creates a dynamic visual experience, emphasizing the intricate details and enhancing the overall aesthetic appeal of the image.
+
+JSON Output:
+```json
+{
+  "description": "The image showcases a scene where the lighting plays a crucial role in highlighting the fringing effect. The light source appears to be coming from the top left corner, casting a soft glow that accentuates the edges of the objects, making the fringing more noticeable. The reflections in the image are relatively clear, with minimal distortion, allowing for a crisp and accurate representation of the surrounding environment. The colors within the reflections are vibrant and true to life, adding depth and dimension to the overall composition. The interplay between the lighting and reflections creates a dynamic visual experience, emphasizing the intricate details and enhancing the overall aesthetic appeal of the image."
+}
+```
+==================================
+Please analyze the provided image with a focus on how the lighting influences the overall appearance of the scene. Begin by identifying and noting the positions of key elements within the image, such as objects, shadows, and light sources. For each object casting a shadow, include a brief description or label to clearly identify it. Additionally, observe and describe the colors and patterns present in any chromatic aberration visible in the image. Your output should be a detailed, contextually relevant textual description presented in a free-style paragraph format.
+==================================
+Carefully examine the given image, paying close attention to every detail within the scene. Consider the various elements present, such as the environment, objects, people, and their interactions. Note the colors, lighting, and any prominent features that stand out. Reflect on the overall mood and atmosphere conveyed by the image. Then, craft a comprehensive and vivid textual description that encapsulates the essence of the setting. Your description should be rich in detail, painting a clear and immersive picture for the reader, allowing them to fully envision and understand the context and nuances of the scene.
+==================================
+To generate a comprehensive and insightful analysis of the given image, follow these detailed instructions:
+
+1. **Symbolic and Thematic Elements**:
+   - Carefully examine the image to identify any objects, colors, or visual components that might carry deeper meanings or contribute to the overall theme of the scene.
+   - Consider how these elements interact with each other and the context they create within the image.
+   - Reflect on the potential symbolic significance of these elements and how they might relate to broader themes or narratives.
+
+2. **Lighting Conditions**:
+   - Observe the lighting within the image, noting its source(s) and direction.
+   - Analyze how the lighting affects the mood and atmosphere of the scene.
+   - Consider the interplay of light and shadow, and how it highlights or obscures different parts of the image.
+
+3. **Blurred Regions**:
+   - Inspect the image thoroughly to identify any areas that appear blurred.
+   - Describe the location and extent of the blur within the image.
+   - Discuss the possible reasons for the blur and how it impacts the overall perception of the scene.
+
+4. **Engaging and Accessible Description**:
+   - Ensure that your analysis is engaging and accessible to a broad audience.
+   - Use clear and descriptive language to convey your observations and insights.
+   - Avoid technical jargon and aim to make your description relatable and easy to understand.
+
+The expected output should be in JSON format, structured as follows:
+
+```json
+{
+  "symbolic_and_thematic_elements": {
+    "description": "Detailed analysis of objects, colors, and visual components with their potential symbolic meanings and thematic contributions."
+  },
+  "lighting_conditions": {
+    "description": "Comprehensive analysis of the lighting, including its source, direction, and impact on the scene's mood and atmosphere."
+  },
+  "blurred_regions": {
+    "description": "Identification and description of any blurred areas within the image, including their location, extent, and potential reasons for the blur."
+  },
+  "engaging_and_accessible_description": {
+    "description": "An engaging and accessible narrative that ties together the symbolic elements, lighting conditions, and blurred regions to provide a cohesive understanding of the image."
+  }
+}
+```
+
+By following these instructions, you will be able to generate a detailed, accurate, and contextually relevant textual description of the image, ensuring a thorough analysis that is both engaging and accessible to a wide audience.
+==================================
+To thoroughly analyze the given image and generate an accurate, detailed, and contextually relevant textual description, follow these steps:
+
+1. **Environment and Setting**: Carefully examine the overall environment and setting depicted in the image. Note the type of location (e.g., indoor, outdoor), the presence of natural or artificial elements, and any notable features or objects within the scene. Describe the ambiance and any relevant contextual details that contribute to the setting.
+
+2. **Color Fringing**: Identify and specify the exact part of the object where color fringing is observed. Color fringing, also known as chromatic aberration, typically appears as a halo or outline of color along the edges of objects. Clearly describe the location and extent of this effect within the image.
+
+3. **Light Quality**: Assess the quality of light in the image. If the light appears soft, describe it as having a gentle, diffused quality with minimal shadows. Note the direction, intensity, and any visible sources of light. Mention how the light interacts with objects and surfaces in the scene.
+
+4. **Positioning and Proximity**: Observe and describe the positioning and proximity of objects and elements within the image. Note their relative positions to each other and to the viewer. Highlight any physical or implied connections between objects, such as overlapping, touching, or being part of a larger structure.
+
+The expected output should be in JSON format and include the following fields:
+
+```json
+{
+  "environment_and_setting": "Detailed description of the overall environment and setting.",
+  "color_fringing": "Specific part of the object where color fringing is observed.",
+  "light_quality": "Description of the light quality, noting if it is gentle and diffused with minimal shadows.",
+  "positioning_and_proximity": "Details on the positioning, proximity, and any physical or implied connections between objects."
+}
+```
+
+Ensure that each field is filled with comprehensive and contextually relevant information based on the thorough analysis of the image.
+==================================
+Carefully examine the facial expressions of the individuals in the image to identify and describe any emotions they might be conveying. Look for subtle cues such as the positioning of their eyebrows, the shape of their mouths, and the overall tension or relaxation in their faces. Additionally, observe their body language, noting the positions of their arms, hands, and overall posture, as these can provide further insight into their emotional states or intentions. 
+
+Also, identify any signs or written content present in the image. Describe the content of the signage, including any text, symbols, or images, and specify the language used. Pay attention to the style of the signage, such as the font, colors, and design elements, and consider how these aspects contribute to the overall context and message being conveyed. 
+
+The final output should be a detailed and contextually relevant paragraph that thoroughly describes the emotions, body language, and signage observed in the image.
+==================================
+To thoroughly analyze the given image and generate an accurate, detailed, and contextually relevant textual description, follow these steps:
+
+1. **Shadow Direction**: Carefully examine the shadows cast by objects within the image. Provide a detailed description of the direction in which the shadows are falling. For example, specify if the shadows are cast towards the northeast, southwest, etc., and mention any notable angles or patterns observed.
+
+2. **Location Type**: Assess the overall setting of the image to determine the type of location depicted. Identify if the area appears to be urban, rural, commercial, residential, recreational, or another type. Consider elements such as buildings, vegetation, infrastructure, and human activity to make this determination.
+
+3. **Additional Context and Relevant Details**: Include any additional context or relevant details that contribute to a comprehensive understanding of the image. This could involve noting the presence of specific landmarks, the condition of the environment, weather conditions, time of day, or any other significant features that add depth to the description.
+
+4. **Size Comparison**: Compare the size of the main object in the image relative to other objects or elements within the scene. Describe the main object’s size in relation to nearby objects, providing a sense of scale and proportion. Mention if the main object is significantly larger, smaller, or similar in size to other elements in the image.
+
+The expected output should be structured in JSON format as follows:
+
+```json
+{
+  "shadow_direction": "Provide a detailed description of the shadow's direction, including specific angles and patterns observed.",
+  "location_type": "Identify if the location is urban, rural, commercial, residential, recreational, or another type.",
+  "additional_context": "Include any additional context or relevant details that contribute to a comprehensive understanding of the image.",
+  "size_comparison": "Describe the size of the main object relative to other objects or elements within the image, providing a sense of scale and proportion."
+}
+```
+
+Ensure that each field is populated with precise and thorough information to create a complete and accurate description of the image.
+==================================
+Carefully examine the image and identify the main subject or focal point. Describe the exact position of this primary subject within the frame, noting whether it is located in the center, off-center to the left or right, at the top, bottom, or any other specific area. Provide a detailed account of its placement in relation to other elements within the image, ensuring a thorough and precise description.
+==================================
+Carefully analyze the given image, paying close attention to any identifiable elements within the blurred area, even if they are not entirely clear. Look for shapes, colors, and patterns that might provide clues about what is present in the blurred section. Additionally, observe the environment for any relevant cues that might indicate the time of day, such as the quality and direction of light, the presence of shadows, and any visible activities or objects that suggest a specific time. Infer the position of the light source by examining the direction and length of shadows and the placement of highlights on various objects within the image. Finally, thoroughly examine the background and setting of the image to understand the overall context, noting any significant landmarks, natural features, or human-made structures that contribute to the scene. Your goal is to generate an accurate, detailed, and contextually relevant textual description in the form of a free-style paragraph.
+==================================
+Your task is to thoroughly analyze the given image and generate a detailed, accurate, and contextually relevant textual description. Follow these steps to ensure a comprehensive evaluation:
+
+1. **Symbolic Elements and Visual Components Interaction**:
+    - Identify and describe any symbolic elements present in the image.
+    - Explain how these symbolic elements interact with the visual components, such as objects, colors, and shapes.
+    - Discuss the significance of these interactions and what they might represent or convey within the context of the image.
+
+2. **Chromatic Aberration**:
+    - Examine the image closely for any signs of chromatic aberration, which may appear as color fringing or blurring around the edges of objects.
+    - Note whether chromatic aberration is noticeable and describe its extent and impact on the overall quality of the image.
+
+3. **Composition**:
+    - Describe the overall composition of the image, including the arrangement and placement of objects and elements within the frame.
+    - Discuss the use of space, balance, and perspective in the composition.
+    - Highlight any notable techniques or styles used in the composition, such as the rule of thirds, leading lines, or symmetry.
+
+Your output should be structured in JSON format with the following fields:
+
+```json
+{
+  "symbolic_elements_interaction": "Detailed description of symbolic elements and their interaction with visual components.",
+  "chromatic_aberration": "Description of the presence and impact of chromatic aberration.",
+  "composition": "Detailed description of the image composition, including arrangement, balance, and perspective."
+}
+```
+
+Ensure that each field contains a thorough and precise description based on your analysis of the image.
+==================================
+Please carefully examine the provided image to identify and describe the areas where chromatic aberration is most noticeable. Chromatic aberration typically appears as color fringing along the edges of objects, where colors such as red, green, blue, or purple may appear to be slightly misaligned.
+
+Additionally, analyze the composition of the image to determine the use of symmetry or asymmetry. Describe whether the elements within the image are balanced and mirrored on either side of a central axis (symmetry) or if they are arranged in a way that lacks uniformity and balance (asymmetry). 
+
+The expected output should be a JSON object with two fields: "chromatic_aberration_areas" and "composition_analysis". Each field should contain a detailed description based on your analysis.
+
+Example JSON output:
+```json
+{
+  "chromatic_aberration_areas": "Description of where chromatic aberration is most noticeable, including specific objects or areas within the image.",
+  "composition_analysis": "Description of the use of symmetry or asymmetry in the composition, including specific elements and their arrangement."
+}
+```
+==================================
+You should generate a detailed and contextually relevant textual description of the given image by thoroughly analyzing its content. Begin by carefully observing the weather conditions depicted in the image, noting aspects such as the presence of sunlight, clouds, precipitation, and overall atmosphere. 
+
+Next, focus on the primary object within the image. Describe this object in detail, considering its physical characteristics such as shape, size, color, and texture. Pay attention to any distinguishing features that make the object unique or noteworthy. 
+
+Ensure that your description is well-formed and grammatically correct, presenting a comprehensive and vivid portrayal of the scene. The final output should be a free-style paragraph that encapsulates both the environmental context and the specific details of the primary object, providing a clear and engaging narrative for the reader.
+==================================
+Carefully examine the given image and identify the areas that appear blurred. Describe these blurred sections in detail, noting their locations within the image and how the blur contributes to the overall perception of depth. Discuss how the blurred areas create a sense of distance or focus, and how they influence the viewer's understanding of the spatial relationships between different elements in the image.
+
+Next, identify and describe the primary subjects within the image. Provide a detailed description of any human or animal figures, including their positions, actions, and any notable features or expressions. Discuss how these subjects interact with their surroundings and with each other, and how they contribute to the overall narrative or theme of the image. 
+
+Your output should be a comprehensive, free-style paragraph that thoroughly analyzes the image, offering a nuanced understanding of both the technical aspects (such as blur and depth) and the content (such as primary subjects and their interactions).
+==================================
+Carefully analyze the given image and generate a free-flowing paragraph that provides a thorough and detailed description of the scene. Begin by identifying and describing the species of any animals present in the image, noting their appearance and behavior. Next, assess the lighting conditions, specifying if the light is direct and creates strong contrasts and sharp shadows, or if it is softer and more diffused. Then, examine the architectural features within the image, paying close attention to the style and design of any buildings. Describe the materials, colors, and any distinctive elements that characterize the architecture. Your goal is to create a vivid and contextually relevant textual description that captures the essence of the scene in a comprehensive manner.
+==================================
+The instruction should guide the model to carefully examine the given image, paying close attention to the details and relationships between objects within the image. The model should determine if the objects are components of a larger structure and provide a comprehensive description of this analysis. The output should be formatted as a JSON object, containing the following fields:
+
+1. "objects": A list of objects identified in the image.
+2. "larger_structure": A boolean value indicating whether the objects are part of a larger structure.
+3. "structure_description": A detailed description of the larger structure, if applicable.
+4. "relationships": An explanation of how the objects are related to each other within the context of the larger structure.
+
+Here is an example of the expected output:
+
+```json
+{
+  "objects": ["object1", "object2", "object3"],
+  "larger_structure": true,
+  "structure_description": "The objects are components of a complex machine. Object1 is connected to object2 via a series of gears, and object3 serves as a support structure.",
+  "relationships": "Object1 and object2 interact directly through mechanical connections, while object3 provides stability and support to the entire assembly."
+}
+```
+
+The model should ensure that the description is accurate, detailed, and contextually relevant to the image provided.
+==================================
+You should thoroughly analyze the given image and generate an accurate, detailed, and contextually relevant textual description. Your description should be presented as a free-style paragraph and include the following aspects:
+
+1. **Main Object**: Identify and describe the primary subject of the image, including its physical characteristics, colors, textures, and any notable features. Explain how the main object is positioned within the frame and its relationship to other elements in the image.
+
+2. **Weather Conditions**: Describe the weather conditions depicted in the image, such as whether it is sunny, cloudy, rainy, or snowy. Include details about the sky, lighting, and any visible effects of the weather on the environment.
+
+3. **Main Character**: If there is a person or animal in the image, provide a detailed description of this character. Include information about their appearance, clothing, posture, and any actions they are performing. Explain how the character interacts with the main object and the environment.
+
+4. **Symmetry/Asymmetry**: Analyze the composition of the image, noting the use of symmetry or asymmetry. Describe how these compositional choices affect the overall balance and visual interest of the image.
+
+5. **Lighting and Shadows**: Identify areas of the image that are well-lit and those that are in shadow. Describe how the lighting affects the appearance of the main object and other elements, and how it contributes to the mood and atmosphere of the image.
+
+Your detailed and comprehensive description should provide a vivid and engaging depiction of the image, capturing all relevant aspects and nuances.
+==================================
+You are tasked with analyzing the provided image in detail. Your goal is to identify and describe instances of color fringing, also known as chromatic aberration, around the edges of objects within the image. This involves looking for any noticeable color distortions or halos, typically red, green, blue, or purple, that appear along the boundaries of objects where there is a high contrast between light and dark areas.
+
+Additionally, you should carefully examine the dimensions of the primary object in the image. This includes noting its height, width, and any other relevant measurements that can be inferred from the image. If possible, provide a comparison to other objects within the image to give a sense of scale.
+
+Your output should be a JSON object that includes the following fields:
+- `color_fringing`: A description of any color fringing observed, including the colors involved and the specific areas or edges where it is most noticeable.
+- `primary_object_dimensions`: A detailed description of the dimensions of the primary object, including height, width, and any other relevant measurements or comparisons to other objects in the image.
+
+Here is an example of the expected output format:
+
+```json
+{
+  "color_fringing": "Description of color fringing, including colors and specific areas.",
+  "primary_object_dimensions": "Description of the dimensions of the primary object, including measurements and comparisons."
+}
+```
+==================================
+Carefully examine the given image and provide a comprehensive analysis of how lighting influences the appearance of the primary object. Describe how the lighting creates highlights, shadows, and gradients on the object's surface, paying close attention to the direction, intensity, and quality of the light source. Include a detailed description of the primary object of focus, noting its shape, texture, and any distinguishing features.
+
+Additionally, identify and describe any instances of chromatic aberration within the image. Look for any color fringing or distortions around the edges of objects, and explain how these aberrations affect the overall visual quality of the image.
+
+Finally, observe and note any variations in the edges of the shadows cast by the primary object. Describe whether the shadows have sharp, well-defined edges or if they appear soft and diffused, and discuss how these variations contribute to the overall composition and depth of the image.
+==================================
+Carefully examine the provided image and generate a thorough and detailed textual description. Begin by identifying and describing the background elements, noting their characteristics and discussing how they might influence the overall mood of the scene. Pay close attention to any symbolic elements present in the image, and analyze how these contribute to the overarching message or theme. Additionally, observe and describe any structural damage to buildings, if present, and consider how this damage affects the interpretation of the scene. Finally, focus on identifying and detailing any geometric characteristics within the structures, describing their shapes, patterns, and how they interact with other elements in the image. Your description should be a free-style paragraph that is accurate, detailed, and contextually relevant.
+==================================
+Please analyze the provided image comprehensively and generate a detailed, accurate, and contextually relevant textual description. Ensure that your description includes the following elements:
+
+1. A thorough description of the main object in the image, including its appearance, features, and any notable characteristics.
+2. A detailed account of the surroundings or background where the main object is located, including any relevant elements that contribute to the context of the image.
+3. An assessment of the intensity of the color fringing effect present in the image.
+4. A "style" field that specifies the popular style in which the description is written (e.g., "realistic," "artistic," "technical," etc.).
+
+The expected output should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "description": "A detailed and contextually relevant textual description of the image.",
+  "background": "A thorough description of the surroundings or background.",
+  "color_fringing_intensity": "An assessment of the intensity of the color fringing effect.",
+  "style": "The popular style in which the description is written."
+}
+```
+
+Please ensure that the generated description is accurate, detailed, and provides a comprehensive understanding of the image.
+==================================
+Carefully examine the arrangement and placement of various elements within the image, considering their spatial relationships and how they interact with one another. Pay attention to the foreground, middle ground, and background, noting how objects are positioned relative to each other and to the frame as a whole. Analyze how the positioning of these elements influences the viewer's perception and guides their eye through the scene. Consider aspects such as balance, symmetry, focal points, and the use of negative space. Discuss how these compositional choices contribute to the overall narrative or message of the image, enhancing the viewer's understanding and emotional response. Your description should be a detailed, free-flowing paragraph that captures the essence of the scene and its compositional dynamics.
+==================================
+The instruction should guide the model to thoroughly analyze the given image and generate an accurate, detailed, and contextually relevant textual description. The description should cover all significant aspects of the image, including objects, people, scenery, colors, actions, and any other notable elements. The output should be structured in a JSON format, ensuring that the description is comprehensive and provides a clear understanding of the image's visual characteristics. The JSON output should include fields for the main subject, background details, colors, and any other relevant attributes to give a complete picture of the image. Here is an example of the expected JSON output:
+
+```json
+{
+  "main_subject": "A detailed description of the primary focus of the image",
+  "background": "Information about the background elements and scenery",
+  "colors": "Description of the predominant colors in the image",
+  "objects": "List and details of significant objects present in the image",
+  "people": "Description of any people in the image, including their actions and appearance",
+  "actions": "Explanation of any notable actions or activities occurring in the image",
+  "additional_details": "Any other relevant information that adds to the understanding of the image"
+}
+```
+==================================
+To generate a detailed and contextually relevant textual description of the given image, follow these steps:
+
+1. **Thorough Analysis**: Carefully examine the image to identify all significant elements, objects, and features. Pay attention to details such as colors, shapes, textures, and any notable interactions between objects.
+
+2. **Placement and Positioning**: Note the placement and positioning of each highlighted element within the image. Describe where each object is located in relation to others (e.g., "in the center," "to the left," "in the background").
+
+3. **Vivid Description**: Use descriptive language to vividly convey the appearance and characteristics of each element. Include details that help create a clear and accurate mental image for the reader.
+
+4. **Contextual Relevance**: Ensure that the description is contextually relevant, providing information that helps the reader understand the scene, setting, or subject matter of the image.
+
+5. **JSON Format**: Structure the output as a JSON object, with each atomic description separated by a line. Each element should be clearly defined and described in a complete and coherent sentence.
+
+Example JSON output:
+
+```json
+{
+  "description": [
+    "In the center of the image, there is a large oak tree with lush green leaves and a thick, sturdy trunk.",
+    "To the left of the tree, a red bicycle is leaning against a wooden fence.",
+    "In the background, a clear blue sky with a few scattered white clouds can be seen.",
+    "A small brown dog is sitting on the grass near the base of the tree, looking up at the branches."
+  ]
+}
+```
+
+By following these steps, you will generate a comprehensive and detailed description of the image that is both vivid and accurate.
+==================================
+The instruction should guide the model to thoroughly analyze the given image, paying particular attention to areas where high-contrast regions intersect. The model should generate an accurate, detailed, and contextually relevant textual description based on this analysis. The expected output should be in JSON format, including specific details about the high-contrast areas, their intersections, and any notable features or patterns observed in these regions. The description should avoid implying specific training data or dates.
+
+Expected JSON output format:
+
+```json
+{
+  "description": "A detailed description of the image focusing on the areas where high-contrast regions meet.",
+  "high_contrast_areas": [
+    {
+      "location": "Description of the location within the image",
+      "details": "Detailed description of the high-contrast area",
+      "intersection_details": "Description of the intersection of high-contrast areas"
+    },
+    {
+      "location": "Description of another location within the image",
+      "details": "Detailed description of another high-contrast area",
+      "intersection_details": "Description of the intersection of another set of high-contrast areas"
+    }
+  ],
+  "notable_features": "Description of any notable features or patterns observed in the high-contrast areas"
+}
+```
+==================================
+Carefully examine the provided image and generate a detailed and thorough description of the scene. Your description should be articulated in a free-flowing paragraph that captures the essence and intricacies of the image. Pay close attention to the natural elements present, such as the landscape, flora, fauna, weather conditions, and any other significant features. Describe the colors, textures, and any interactions between elements to create a vivid and immersive account. Your goal is to convey a clear and contextually rich depiction that allows the reader to visualize the scene as if they were experiencing it firsthand.
+==================================
+Analyze the perspective employed in the composition of the given image. Carefully observe the elements within the image to determine the viewpoint from which the scene is depicted. Consider factors such as the angle, depth, and spatial relationships between objects. Describe how these elements contribute to the overall perspective and how they influence the viewer's perception of the scene. 
+
+The expected output should be a JSON object containing a detailed description of the perspective. For example:
+
+```json
+{
+  "perspective": {
+    "viewpoint": "description of the viewpoint (e.g., eye-level, bird's-eye, worm's-eye)",
+    "angle": "description of the angle (e.g., frontal, side, oblique)",
+    "depth": "description of the depth (e.g., shallow, deep, layered)",
+    "spatial_relationships": "description of the spatial relationships between objects (e.g., overlapping, distant, close)",
+    "overall_effect": "description of how the perspective influences the viewer's perception of the scene"
+  }
+}
+```
+==================================
+Carefully examine the provided image and generate a thorough and detailed textual description that captures the essence of the atmosphere and mood of the setting. Consider the various elements within the image that contribute to its overall ambiance, such as weather conditions, time of day, and any emotional undertones that may be present. 
+
+Next, analyze how the light source in the image affects its overall appearance. Describe the direction, intensity, and quality of the light, and explain how it interacts with the objects and environment within the image. Note any shadows, highlights, or reflections that are created as a result of the light source, and discuss how these elements contribute to the visual impact and mood of the scene.
+
+Finally, identify the primary subject or main object within the image. Describe its appearance, position within the composition, and any notable features that make it stand out. Explain how the subject relates to the surrounding elements and how it contributes to the overall narrative or theme of the image.
+
+Your description should be written as a free-style paragraph, seamlessly integrating all these observations to provide a rich and vivid portrayal of the image.
+==================================
