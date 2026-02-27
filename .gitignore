@@ -1,0 +1,16 @@
+.DS_Store
+venv/*
+._.**
+._**
+dump_model/
+CapArena/
+CapMAS/
+FAITHSCORE/
+FlagEmbedding/
+faith_score_prompts/
+.env
+DeCapBench/
+Dataset/flickr30k-images/
+__pycache__/
+dump_experiments/image_gen_results_ver5/
+dump_experiments/image_gen_results_ver10/
